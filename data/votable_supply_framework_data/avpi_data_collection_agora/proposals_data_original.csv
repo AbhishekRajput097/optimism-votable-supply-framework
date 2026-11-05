@@ -1,0 +1,1400 @@
+id,proposer,createdTime,endTime,cancelledTime,executedTime,queuedTime,markdowntitle,description,quorum,proposalType,status
+31049359136632781771607732021569520613741907517136820917236339424553298132866,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:42:41.000Z,2025-01-15T20:42:41.000Z,,,,Security Council Elections Cohort B Members,"# Security Council Elections Cohort B Members
+
+
+
+ ## Description 
+Following the guidelines of the [Security Council Charter](https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md), the Token House will hold elections for Cohort B of the Optimism Security Council. The top 6 candidates with the highest votes will be elected to Cohort B and serve a 12-month term, subject to Foundation confirmation. If any candidate is not confirmed by the Foundation, the runner up will take their position.
+
+
+This vote will utilize approval voting, allowing delegates to vote for any number of nominees. In approval or ranked choice votes, delegates may vote for themselves as long as they also cast votes for the remaining elected positions.
+
+* [World Foundation](https://gov.optimism.io/t/security-council-member-self-nomination-world-foundation/9409)
+* [Andrey Petrov](https://gov.optimism.io/t/security-council-member-self-nomination-andrey-petrov/9411)
+* [OP Labs](https://gov.optimism.io/t/security-council-self-nomination-op-labs/9424)
+* [L2BEAT](https://gov.optimism.io/t/security-council-self-nomination-l2beat/9435)
+* [Alchemy](https://gov.optimism.io/t/security-council-self-nomination-alchemy/9431)
+* [Maggie Love](https://gov.optimism.io/t/security-council-self-nomination-maggie-love-shefi/9439)
+* [Gauntlet](https://gov.optimism.io/t/security-council-self-nomination-gauntlet/9446)
+* [Test in Prod](https://gov.optimism.io/t/security-council-self-nomination-test-in-prod/9451)
+* [Yoav Weiss](https://gov.optimism.io/t/security-council-self-nomination-yoav-weiss/9452)
+* [ml_sudo](https://gov.optimism.io/t/security-council-self-nomination-ml-sudo/9459)
+* [Kris Kaczor](https://gov.optimism.io/t/security-council-self-nomination-kris-kaczor/9470)
+* [Martin Tellechea](https://gov.optimism.io/t/security-council-member-self-nomination-martin-tellechea/9471)
+* [Ink](https://gov.optimism.io/t/security-council-self-nomination-ink/9473)
+* [Coinbase](https://gov.optimism.io/t/coinbase-security-council-cohort-b-nomination/9475)
+* [troy](https://gov.optimism.io/t/security-council-self-nomination-troy/9469)
+
+[This proposal is eligible for Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)
+
+It's important to note that no more than 1 elected member may be associated with a particular entity, or that entity’s employees or affiliates.
+",28950510792662910813835876,APPROVAL,ACTIVE
+74723563551015450062796414167104191945357984468602347424694608592347049615232,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:42:09.000Z,2025-01-15T20:42:09.000Z,,,,Grants Council Operations Elections,"# Grants Council Operations Elections
+
+
+
+ ## Description 
+Following the approval of the [Grants Council Operating Budget](https://gov.optimism.io/t/grants-council-operating-budget-s7/9357), the Token House will elect 1 person for the Operations role.
+
+This vote will be approved if it receives a minimum number of yes votes, equal to 51% of quorum. You should abstain from voting if you do not think this nominee should be elected.
+
+* [Bunnic](https://gov.optimism.io/t/season-7-nominations-operations-on-the-grants-council/9404/2)
+
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)",28950510792662910813835876,APPROVAL,ACTIVE
+89373814096940749239399795696169676931497831019947431093522618314329883874987,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:41:39.000Z,2025-01-15T20:41:39.000Z,,,,Developer Advisory Board Foundation Mission Team Elections,"# Developer Advisory Board Foundation Mission Team Elections
+
+
+
+ ## Description 
+Following the approval of the [Developer Advisory Board Budget](https://gov.optimism.io/t/developer-advisory-board-season-7-operating-budget/9350), the Token House will elect 2 roles for the Foundation Mission Team, from 3 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [Ed](https://gov.optimism.io/t/season-7-nominations-foundation-mission-team-on-the-developer-advisory-board/9401/2)
+* [Skeletor](https://gov.optimism.io/t/season-7-nominations-foundation-mission-team-on-the-developer-advisory-board/9401/3)
+* [Danyal](https://gov.optimism.io/t/season-7-nominations-foundation-mission-team-on-the-developer-advisory-board/9401/4)
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)",28950510792662910813835876,APPROVAL,ACTIVE
+49253944601182914212094155764177321389049983612237161193650190261698760822865,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:41:09.000Z,2025-01-15T20:41:09.000Z,,,,Developer Advisory Board Governance Mission Team Elections,"# Developer Advisory Board Governance Mission Team Elections
+
+
+
+ ## Description 
+Following the approval of the [Developer Advisory Board Budget](https://gov.optimism.io/t/developer-advisory-board-season-7-operating-budget/9350), the Token House will elect 3 roles for the Governance Mission Team, from 8 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [Will](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/2)
+* [Jepsen](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/3)
+* [blockdev](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/4)
+* [godspower](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/5)
+* [Cooper01](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/6)
+* [beskay](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/7)
+* [Shubham](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/8)
+* [Iain](https://gov.optimism.io/t/season-7-nominations-governance-mission-team-on-the-developer-advisory-board/9400/9)
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)
+",28950510792662910813835876,APPROVAL,ACTIVE
+23135804443629800568954930833204040265654375786801414759474134224681843913739,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:40:37.000Z,2025-01-15T20:40:37.000Z,,,,Developer Advisory Board Audit Request Team Elections,"# Developer Advisory Board Audit Request Team Elections
+
+
+
+ ## Description 
+Following the approval of the [Developer Advisory Board Budget](https://gov.optimism.io/t/developer-advisory-board-season-7-operating-budget/9350), the Token House will elect 2 roles for the Audit Request Team, from 8 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [m4rio.eth](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/2)
+* [noah.eth](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/3)
+* [Sujith](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/4)
+* [gjaldon](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/6)
+* [Vagner](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/7)
+* [0x73696d616f](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/11)
+* [Shogoki](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/12)
+* [unsafe_call](https://gov.optimism.io/t/season-7-nominations-audit-request-team-on-the-developer-advisory-board/9399/13)
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)
+",28950510792662910813835876,APPROVAL,ACTIVE
+34518372197451451866101879555508739062300517462751993121458496979101875671697,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:38:37.000Z,2025-01-15T20:38:37.000Z,,,,Milestones and Metrics Council Reviewer Elections,"# Milestones and Metrics Council Reviewer Elections
+
+
+
+ ## Description 
+Following the approval of the [Milestones and Metrics Council Operating Budget](https://gov.optimism.io/t/season-7-milestones-and-metrics-council-operating-budget/), the Token House will elect 3 Reviewers, from 9 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [mel.eth (StableLab)](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/2)
+*  [LauNaMu](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/5)
+* [AnthiasLabs](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/6)
+* [mmurthy](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/8)
+* [Pavel](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/9)
+* [v3naru_Curia](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/10)
+* [Takeshi (Tané)](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/11)
+* [Pumbi (SEEDGov)](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/13)
+* [Angela](https://gov.optimism.io/t/season-7-nominations-reviewer-on-the-milestone-and-metric-council/9394/14)
+
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)
+",28950510792662910813835876,APPROVAL,ACTIVE
+67159803770854300033210933196826267669799915634322081238966793394467990315885,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:37:47.000Z,2025-01-15T20:37:47.000Z,,,,Grants Council Final Reviewer Elections,"# Grants Council Final Reviewer Elections
+
+
+
+ ## Description 
+Following the approval of the [Grants Council Operating Budget](https://gov.optimism.io/t/grants-council-operating-budget-s7/9357), the Token House will elect 4 Final Reviewers, from 7 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [MattGov.eth](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/2)
+* [GFX Labs](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/3)
+* [Michael](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/5)
+* [jackanorak](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/10)
+* [Areta](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/11)
+* [MoneyManDoug](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/12)
+* [JashFi](https://gov.optimism.io/t/season-7-nominations-final-reviewer-on-the-grants-council/9402/13)
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457)",28950510792662910813835876,APPROVAL,ACTIVE
+107607817568553557972773895253625910647625440456906770014958987868649953166753,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:37:29.000Z,2025-01-15T20:37:29.000Z,,,,Grants Council GrantNerd Elections,"# Grants Council GrantNerd Elections
+
+
+
+ ## Description 
+Following the approval of the [Grants Council Operating Budget](https://gov.optimism.io/t/grants-council-operating-budget-s7/9357), the Token House will elect 3 GrantNerds, from 12 candidates.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [Megalod](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/2)
+* [kumahada](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/4)
+* [Ramadhan](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/5)
+* [Brichis](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/6)
+* [Jrocki](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/7)
+* [mastermojo](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/10)
+* [Sov](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/11)
+* [Marcus01](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/12)
+* [debbie](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/13)
+* [Ugbuericsam](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/14)
+* [Liliop.eth](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/16)
+* [glory_Sherlock](https://gov.optimism.io/t/season-7-nominations-grantnerd-on-the-grants-council/9403/18)
+
+This proposal is eligible for Special Voting Cycle #31b: <https://gov.optimism.io/t/special-voting-cycle-roundup-31b/9457>
+",28950510792662910813835876,APPROVAL,ACTIVE
+109906178950241194456716107956786281098102465720355052462090631179749332288099,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2025-01-09T20:36:59.000Z,2025-01-15T20:36:59.000Z,,,,Season 7: Chain Delegation Program Amendment,"# Season 7: Chain Delegation Program Amendment
+The Chain Delegation Program was introduced in Season 5, to help new OP Chains onboard and build their delegation in Optimism’s governance. While this program is approved through the first 15 Chains completing their temporary 12 months of delegation via the program, the Foundation would like to propose a small amendment to the Chain Delegation Program starting in Season 7.
+
+This amendment seeks to align this program more closely with the Season 7 Intent: A set of Stage 1 chains doing $250M per month in cross-chain asset transfers.
+
+The proposal suggests moving “satisfying the Standard Rollup Charter criteria,” to be the first criteria rather than the last. This would effectively mean the program is only applicable to OP Chains satisfying the Standard Rollup Charter criteria.
+
+All other qualification criteria will remain unchanged (as previously approved).
+
+[This proposal is eligible for Special Voting Cycle #31b:](https://gov.optimism.io/t/season-7-chain-delegation-program-amendment/9484)
+
+If the amendments are not approved, the Chain Delegation Program will continue, without any changes to the qualification criteria, as approved in the most recent proposal.",28950510792662910813835876,STANDARD,ACTIVE
+110056430729080386792816227311450746138390196036704148024783380982810773372502,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T15:40:57.000Z,2024-12-18T21:12:37.000Z,Decision Market Mission [Onchain],"# Decision Market Mission [Onchain]
+In Season 7, the Collective will experiment with a new approach to grants from the Governance Fund: a decision market. This initiative, facilitated by the Foundation in partnership with Butter and the Uniswap Foundation, will allocate grants based on market predictions of a project’s ability to achieve key success metrics. The proposed budget will go towards funding projects, not Butter, the Uniswap Foundation, or the Optimism Foundation. 
+
+Proposed Gov Fund Budget: 500k OP
+
+The proposal will execute on-chain to the following multisig address: [0x1795652665fAa2dfeF9865544ae8D3c65f9643A8] 
+A Foundation multisig will be the sole signer on this multisig for the initial transfer. Members signers will be added once onboarding is complete and the Foundation will be removed as a signer. 
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/season-7-governance-fund-missions/9300)",28950510792662910813835876,STANDARD,EXECUTED
+42171716559194066774096630474193953258592283643878595219084966413803469648242,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T16:08:23.000Z,2024-12-19T01:48:25.000Z,Grants Council Mission [Onchain],"# Grants Council Mission [Onchain]
+In Season 7, the Grants Council will allocate 10M OP from the Governance Fund to projects advancing the Collective’s Intent: Interoperability.
+
+The Token House entrusts the Grants Council with full discretion to design and execute effective grant strategies. This expanded scope removes constraints to the Mission Request process and allows grants beyond OP Mainnet.
+
+Proposed Gov Fund Budget: 10M OP
+
+The proposal will execute on-chain to the following multisig address: [0x1795652665fAa2dfeF9865544ae8D3c65f9643A8] 
+
+A Foundation multisig will be the sole signer on this multisig for the initial transfer. Members signers will be added once onboarding is complete and the Foundation will be removed as a signer. 
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/season-7-governance-fund-missions/9300)
+",28950510792662910813835876,STANDARD,EXECUTED
+105125741176440203640094995315240049083818024528491410796690326665108302292014,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T16:10:51.000Z,2024-12-19T01:32:39.000Z,Season 7: Security Council Operating Budget [Onchain],"# Season 7: Security Council Operating Budget [Onchain]
+The Security Council plays a crucial  role in the Collective and is assumed to persist each Season. The Token House may vote on a Council Operating Budget. 
+
+
+The sole Security Council Operating Budget is proposed by alisha.eth with an operating budget of 295k OP: 
+<https://gov.optimism.io/t/security-council-operating-budget-season-7/9358>
+
+The proposal will execute on-chain to the following multisig address: [0x42415E7D47Fb8080eb42f870BC2e04Ab0852a264] 
+
+A Foundation multisig will be the sole signer on this multisig for the initial transfer. Members signers will be added once onboarding is complete and the Foundation will be removed as a signer. 
+
+This proposal is eligible for Special Voting Cycle #31a: 
+<https://gov.optimism.io/t/special-voting-cycle-roundup-31a/9331>
+",28950510792662910813835876,STANDARD,EXECUTED
+37879045360062854784591124256577395563453262877307292920231075516279653147858,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T16:09:53.000Z,2024-12-19T02:35:47.000Z,Code of Conduct Council Dissolution Proposal,"# Code of Conduct Council Dissolution Proposal 
+The Foundation has proposed the dissolution of the Code of Conduct Council (CoCC) in Season 7. As outlined in the Operating Manual, a persistent Council continues into the next Season unless a dissolution proposal is approved. 
+
+This proposal reflects structural learnings, not the contributions of past members, who played a vital role in decentralizing accountability. 
+
+If approved, the CoCC’s operations will cease, and its functions may transition to other groups.
+
+There is no operating budget proposal (serving as a counterproposal)  to continue the Code of Conduct Council. 
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/code-of-conduct-council-dissolution-proposal/9321)
+",28950510792662910813835876,STANDARD,EXECUTED
+28176481672236813969648290336143157264806680620695961617794539011701353731831,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T17:18:53.000Z,2024-12-19T03:44:59.000Z,Season 7: Milestones and Metrics Council Operating Budget,"# Season 7: Milestones and Metrics Council Operating Budget 
+The Foundation has proposed establishing an independent Milestones and Metrics Council for Season 7, transitioning the Milestones and Metrics function out of the Grants Council.
+
+The sole Milestones and Metrics Council Operating Budget is proposed by Juanbug_PGov with an operating budget of 170k OP: <https://gov.optimism.io/t/season-7-milestones-and-metrics-council-operating-budget/9353>
+
+Delegates may approve the proposed operating budget, which would elect the author as Council Lead. If delegates do not believe the Milestones and Metrics Council should be created, they should not approve this budget.
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/special-voting-cycle-roundup-31a/9331)",28950510792662910813835876,STANDARD,EXECUTED
+49069551108010786317276710250321368518142423368375472047280675391658792795460,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T15:44:59.000Z,2024-12-19T02:37:17.000Z,Season 7: Developer Advisory Board Operating Budget,"# Season 7: Developer Advisory Board Operating Budget 
+The Developer Advisory Board plays an important role in the Collective and is assumed to persist each Season. The Token House may vote on a Board Operating Budget, thereby electing the proposal author as Board Lead. Delegates are effectively electing the Board Lead that has authored the approved budget.
+
+The sole Developer Advisory Board Operating Budget is proposed by zachobront with an operating budget of 190k OP: <https://gov.optimism.io/t/developer-advisory-board-season-7-operating-budget/9350>
+
+If this proposal is approved, this [PR](https://github.com/ethereum-optimism/OPerating-manual/pull/32) will be merged to supersede the previous Charter hosted [here](https://github.com/ethereum-optimism/OPerating-manual/blob/main/Developer%20Advisory%20Board%20Charter%20v1.1.md).
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/special-voting-cycle-roundup-31a/9331)",28950510792662910813835876,STANDARD,EXECUTED
+113395645275190312177047367740435087758207466337425363849657431713193292571149,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-23T08:10:17.000Z,2024-12-19T05:23:15.000Z,Season 7: Grants Council Operating Budget,"# Season 7: Grants Council Operating Budget 
+The Grants Council plays an important role in the Collective and is assumed to persist each Season. The Token House may vote on a Council Operating Budget, thereby electing the proposal author as Council Lead. Delegates are effectively electing the Council Lead that has authored the approved budget.
+
+The sole Grants Council Operating Budget is proposed by Gonna.eth with an operating budget of 400k OP: <https://gov.optimism.io/t/grants-council-operating-budget-s7-request-for-feedback/9357>
+
+If this proposal is approved, this [PR](https://github.com/ethereum-optimism/OPerating-manual/pull/33) will be merged to supersede the previous Charter hosted [here](https://github.com/ethereum-optimism/OPerating-manual/blob/main/Grants%20Council%20Charter%20v0.1.md).
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/special-voting-cycle-roundup-31a/9331)",28950510792662910813835876,STANDARD,EXECUTED
+81329280883846954682349421813163481922086727616194816867537448588284139710873,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-23T13:09:43.000Z,2024-12-19T06:14:33.000Z,Season 7: Anticapture Commission Amendment,"# Season 7: Anticapture Commission Amendment
+The Anticapture Commission was conceptualized and formally introduced by the Foundation as an experimental program in Season 5, with a view towards preventing capture across the Optimism Collective, while simultaneously representing the interests of key individual delegates. 
+
+Originally, the [Anticapture Commission Charter](https://gov.optimism.io/t/anticapture-commission/6889) was approved to operate for two seasons. It was further amended and carried forward into [Season 6](https://gov.optimism.io/t/season-6-anticapture-commission-amended/8132). 
+
+For Season 7, the Anticapture Commission is being proposed for renewal by the former Commission Lead. If approved by the Token House, the Anticapture Commission will continue to be delegated 10M OP from the Governance Fund in Season 7 and 8. The Anticapture Commission will not have an operating budget.
+
+If this proposal is approved, this [PR](https://github.com/ethereum-optimism/OPerating-manual/pull/34) will be merged to supersede the previous Charter hosted [here](https://github.com/ethereum-optimism/OPerating-manual/blob/main/Anticapture%20Commission%20Charter%20v1.1.md). 
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/season-7-anticapture-commission-charter-amendment/9354)",28950510792662910813835876,STANDARD,EXECUTED
+106197078319070238442982538943461006899502017598835122473289450535038443039415,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-23T10:43:43.000Z,2024-12-19T05:41:23.000Z,Season 7: Intent Ratification,"# Season 7: Intent Ratification
+Intents are high level strategic goals the entire Collective works towards. All contributions in the Collective should be working towards the Intents.
+
+In Season 7, we will have one Intent, focused on a core pillar of our Superchain Product Vision: Interoperability.
+
+Intent: A set of **interoperable** Stage 1 chains doing $250m per month in cross-chain asset transfers
+
+Ratification implies support of this strategic goal as the main focus for the Collective during Season 7.
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/season-7-intent/9292)
+
+**This proposal is subject to ratification in the Citizens’ House, occurring in the same Special Voting Cycle.**
+",28950510792662910813835876,STANDARD,EXECUTED
+20127877429053636874064552098716749508236019236440427814457915785398876262515,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-12T20:07:15.000Z,2024-12-18T20:07:15.000Z,,2024-12-22T16:05:19.000Z,2024-12-19T09:30:09.000Z,Upgrade Proposal #11: Holocene Network Upgrade,"# Upgrade Proposal #11: Holocene Network Upgrade 
+The Holocene Network Upgrade contains three changes:
+
+- Holocene block derivation: a set of changes that render the derivation pipeline stricter and simpler, but also improve worst-case scenarios for Fault Proofs and Interoperability.
+- EIP-1559 configurability: The elasticity and denominator EIP-1559 parameters become configurable via the SystemConfig L1 contract, allowing gas target and gas limit to be independently configured.
+- MIPS contract upgrade: Updates to support additional calls made by the new op-program version.
+
+If this vote passes, the Holocene upgrade will be planned for execution on the 9th of Jan 2025 18:00:01 UTC. The upgrade will occur automatically for chains on the Granite mainnet release if those chains have opted-in to activate at Superchain times via their superchain-registry configuration (i.e., have the superchain_time set to a timestamp before or at the mainnet activation time, or have set their holocene_time directly). The mainnet release will be prepared at a later time during the governance process, but no later than 4 weeks before the proposed activation time.
+
+Holocene is code complete in the optimism monorepo at a tag op-node/v1.10.2-rc.1 and op-geth at tag op-geth/v1.101411.4-rc.2.
+
+[This proposal is eligible for Special Voting Cycle #31a:](https://gov.optimism.io/t/upgrade-proposal-11-holocene-network-upgrade/9313)
+
+**If passed in the Token House, it will proceed to a veto period in the Citizens’ House.**
+",28950510792662910813835876,STANDARD,EXECUTED
+69771922871899678295641228800065180752005123065337241545846173169617313270459,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-12-03T22:38:03.000Z,2024-12-09T22:38:03.000Z,,2024-12-13T15:07:47.000Z,2024-12-09T22:41:15.000Z,Onchain Treasury Transfer Test,"# Onchain Treasury Transfer Test
+This is a test vote for a future on onchain treasury transfer. This test vote will transfer a nominal amount of OP to 0x1795652665fAa2dfeF9865544ae8D3c65f9643A8, if approved.  This test vote will validate the new transfer mechanics to be implemented as a result of [Governor Update #3](https://gov.optimism.io/t/governor-update-proposal-3-enable-onchain-treasury-execution/9072?u=op_julian). Upon successful completion of this test vote, the Optimism Foundation will  transition to full onchain execution of OP token transfers in special voting cycle #31a. This test vote will require a reduced quorum of 4.5 million OP and will run for 6 days, occurring during an off-cycle to facilitate a smooth and safe special voting cycle #31a.",4500000000000000000000000,STANDARD,EXECUTED
+73810549639625460608526212484168523508252711948247527324237096115535475508877,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-10-24T18:27:19.000Z,2024-10-30T18:27:19.000Z,,,,Season 6: Standard Rollup Charter Ratification,"# Season 6: Standard Rollup Charter Ratification 
+The Standard Rollup is the Optimism Collective’s flagship, high-security blockspace product. The Standard Rollup targets the Collective’s highest bar for security, uptime, and decentralization.
+
+This Charter applies the principles of the Law of Chains to the specific context of Standard Rollups, and does not modify or supersede the Law of Chains in any way. All conflicts between this Charter and the provisions of Law of Chains will be resolved in favor of the Law of Chains.
+
+Optimism Governance is responsible for upholding the standards and policies outlined in this Charter and ensuring their consistency with the Law of Chains. All potential changes to the Standard Rollup should be treated with careful consideration by the governance community, to enable long-term, sustainable ecosystems to be built around Standard Rollup blockspace with confidence.
+
+For more information and explanation of the Blockspace Charter framework, see [here](https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133).
+
+If this proposal is passed, the [Standard Rollup Charter](https://gov.optimism.io/t/season-6-standard-rollup-charter-ratification/8135) will be added to the Operating Manual github repo, and the Upgrade Proposal Template will be updated to the [charter-aware version](https://gov.optimism.io/t/season-6-charter-aware-upgrade-proposal-template/8134).
+
+[This proposal is eligible for Voting Cycle #29](https://gov.optimism.io/t/voting-cycle-roundup-29/9007)
+",28950510792662910813835876,STANDARD,SUCCEEDED
+50775220738623167695573388814398057544437236582252674861818535424434586434657,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-10-24T18:26:31.000Z,2024-10-30T18:26:31.000Z,,,,Governor Update Proposal #3: Enable Onchain Treasury Execution,"# Governor Update Proposal #3: Enable Onchain Treasury Execution
+This proposal outlines the “Enable onchain treasury execution” governor upgrade, allowing OP token transfer proposals to be executed automatically onchain without relying on the Optimism Foundation. Non-treasury proposals, such as protocol and governor upgrades, will continue to be executed via standard processes. This upgrade also includes minor patches based on previous audits.
+
+If approved by governance, the Optimism Foundation admin will set the new implementation of governor proxy at 0xcDF27F107725988f2261Ce2256bDfCdE8B382B10 to new implementation deployed at 0xecbf4ed9f47302f00f0f039a691e7db83bdd2624.
+
+[This proposal is eligible for Voting Cycle #29](https://gov.optimism.io/t/voting-cycle-roundup-29/9007?u=op_julian)
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.
+",28950510792662910813835876,STANDARD,SUCCEEDED
+114198456650793912596888006877659015488795655065090503392438065090397296185351,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-10-03T18:32:07.000Z,2024-10-09T18:32:07.000Z,,,,Rolling Mission Requests: Voting Cycle 28,"# Rolling Mission Requests: Voting Cycle 28
+Following the approval of the [Rolling Mission Requests](https://vote.optimism.io/proposals/54194543592303757979358957212312678549449891089859364558242427871997305750980) proposal in Voting Cycle #27, the Token House will approval rank rolling Mission Requests proposed under [Intent 3A: Grow Application Developers on OP Mainnet.](https://vote.optimism.io/proposals/90325319727942518873831548042238075814171401667882437093972023619135226172775) These Mission Requests should work towards the below target metric:
+
+**Target metric:** 9,500 active developers driving usage across the Superchain
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved.
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum, and fall within the ranking eligible to receive budget allocation. For more details, please see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203) 
+
+**Mission Request Request 1:** [Increase Prevalence of Non-USD/EURO Stablecoins ](https://gov.optimism.io/t/mission-request-increase-prevalence-of-non-usd-euro-stablecoins/8951)
+
+Approval of this Mission Request would use the remainder of the approved budget for Season 7.
+
+This proposal is eligible for Voting Cycle #28
+<https://gov.optimism.io/t/voting-cycle-roundup-28/8883>
+",28950510792662910813835876,APPROVAL,SUCCEEDED
+21837554113321175128753313420738380328565785926226611271713131734865736260549,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-09-12T18:14:25.000Z,2024-09-18T18:14:25.000Z,,,,Rolling Mission Requests: Voting Cycle 27,"# Rolling Mission Requests: Voting Cycle 27
+Contingent on approval of the Rolling Mission Requests proposal, the Token House will approval rank rolling Mission Requests proposed under Intent 3A: Grow Application Developers on OP Mainnet. These Mission Requests should work towards the below target metric:
+
+Target metric: 9,500 active developers driving usage across the Superchain
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved.
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum, and fall within the ranking eligible to receive budget allocation. For more details, please see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203). 
+
+*Intent 3A: Grow Application Developers on OP Mainnet, 6M OP Budgeted*
+Mission Requests
+
+Request 1: [Subsidized Audit Grants V2](https://gov.optimism.io/t/mission-request-subsidized-audit-grants-v2/8856), 250.000 OP
+
+Request 2: [Experimentation of Infrastructure Subsidies](https://gov.optimism.io/t/mission-request-experimentation-of-infrastructure-subsidies/8851) 250.000 OP
+
+Request 3: [Superchain Borrow/Lend Aggregator](https://gov.optimism.io/t/mission-request-superchain-borrow-lend-aggregator/8811) 30.000 OP
+
+Request 4: [Crosschain alert monitoring](https://gov.optimism.io/t/mission-request-subsidized-audit-grants-v2/8856) 60.000 OP
+
+Request 5: [Optimism Dominance in Yield-Bearing Assets - DEX Liquidity for YBAs](https://gov.optimism.io/t/mission-request-optimism-dominance-in-yield-bearing-assets-dex-liquidity-for-ybas/8817) 500.000OP
+
+
+Request 6: [ Decentralized Solvers and Aggregators on OP Mainnet / Superchain](https://gov.optimism.io/t/mission-request-decentralized-solvers-and-aggregators-on-op-mainnet-superchain/8852) 250.000 OP
+
+Request 7: [Targeted extension of Superfest](https://gov.optimism.io/t/mission-request-targeted-extension-of-superfest/8854) 350.000 OP
+
+Request 8: [Optimism Full Financial Audit](https://gov.optimism.io/t/mission-request-optimism-full-financial-audit/8826) 20.000 OP
+
+
+
+[This proposal is eligible for Voting Cycle #27:](https://gov.optimism.io/t/voting-cycle-roundup-27/8796)
+",28950510792662910813835876,APPROVAL,SUCCEEDED
+54194543592303757979358957212312678549449891089859364558242427871997305750980,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-09-12T17:50:55.000Z,2024-09-18T17:50:55.000Z,,,,Rolling Mission Requests,"# Rolling Mission Requests 
+There are currently 1,725,000 OP approved by the Token House under the Intent 3A budget that remain unallocated. The Grants Council requests that the Token House allow Mission Requests to be created on a rolling basis throughout Season 6 until this budget runs out. These rolling Mission Requests must align with Intent 3A: Grow Application Developers on OP Mainnet. 
+
+[This proposal is eligible for Voting Cycle #27:](https://gov.optimism.io/t/voting-cycle-roundup-27/8796)
+",28950510792662910813835876,STANDARD,SUCCEEDED
+15488122171194062441480404384027616672318062743967765547423316224250828775058,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-08-26T17:45:13.000Z,2024-09-01T17:45:13.000Z,,,,Security Council Elections Cohort A Members,"# Security Council Elections Cohort A Members
+Following the guidelines of the Security Council Charter, the Token House will hold elections for Cohort A of the Optimism Security Council. The top 7 candidates with the highest votes will be elected to Cohort A and serve a 12-month term, subject to Foundation confirmation. If any candidate is not confirmed by the Foundation, the runner up will take their position. You can review the candidate town hall recording [here](https://gov.optimism.io/t/security-council-election-town-hall-cohort-a/8728).
+
+This vote will utilize approval voting, allowing delegates to vote for any number of nominees. In approval or ranked choice votes, delegates may vote for themselves as long as they also cast votes for the remaining elected positions.
+
+
+* [Jepsen](https://gov.optimism.io/t/security-council-nomination-waylon-jepsen/8643)
+* [ethernaut](https://gov.optimism.io/t/security-council-member-self-nomination-cohort-a/8650)
+* [ryscheng](https://gov.optimism.io/t/security-council-member-nomination-raymond-cheng/8658)
+* [yoseph](https://gov.optimism.io/t/security-council-member-nomination-yoseph-ayele/8669)
+* [pablito.eth](https://gov.optimism.io/t/security-council-member-nomination-pablo-sabbatella-pablito-eth/8679)
+* [nanexcool](https://gov.optimism.io/t/security-council-member-nomination-mariano-conti/8683)
+* [ml_sudo](https://gov.optimism.io/t/security-council-nomination-ml-sudo/8697)
+* [Agora (as nominated by kent)](https://gov.optimism.io/t/security-council-member-nomination-kent-fenwick-agora/8696)
+* [emiliano](https://gov.optimism.io/t/security-council-member-nomination-emiliano-bonassi/8718)
+* [troy](https://gov.optimism.io/t/security-council-member-nomination-troy/8722)
+* [Node Guardians (as nominated by sam.ng)](https://gov.optimism.io/t/security-council-member-nomination-node-guardians/8725)
+* [Uniswap Foundation (as nominated by eek637)](https://gov.optimism.io/t/security-council-nomination-uniswap-foundation/)
+
+This proposal is eligible for Voting Cycle #26: 
+<https://gov.optimism.io/t/security-council-election-town-hall-cohort-a/8728>
+
+It's important to note that no more than 1 elected member may be associated with a particular entity, or that entity’s employees or affiliates. 
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+3571526975589242327058491420033025608537692126548250258963349769896825038698,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-08-22T19:16:33.000Z,2024-08-28T19:16:33.000Z,,,,Security Council Elections: Cohort A Lead,"# Security Council Elections: Cohort A Lead
+Following the guidelines of the Security Council Charter, the Token House will hold elections for Cohort A of the Optimism Security Council. This election is to approve a Council Lead. You can review the candidate town hall recording [here](https://gov.optimism.io/t/security-council-election-town-hall-cohort-a/8728).
+
+
+This vote will be approved if it receives a minimum number of yes votes, equal to 51% of quorum. You should abstain from voting if you do not think this representative should be elected.
+
+* [alisha.eth](https://gov.optimism.io/t/security-council-nomination-alisha-eth/8702)
+
+
+ This proposal is eligible for Voting Cycle #26:
+<https://gov.optimism.io/t/security-council-election-town-hall-cohort-a/8728>",26226000000000000000000000,APPROVAL,SUCCEEDED
+46514799174839131952937755475635933411907395382311347042580299316635260952272,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-08-22T18:24:09.000Z,2024-08-28T18:24:09.000Z,,,,Upgrade Proposal #10: Granite Network Upgrade,"# Upgrade Proposal #10: Granite Network Upgrade
+This upgrade is proposed in response to security vulnerabilities identified during a series of third-party security audits by Spearbit, Cantina, and Code4rena. None of the vulnerabilities have been exploited, and user assets are not and were never at risk. The upgrade includes both a set of smart contract upgrades to fix the vulnerabilities identified in the audit as well as an L2 hardfork to improve the stability and performance of the fault proof system. In addition, we propose extending the capabilities of the Guardian and DeputyGuardian to set the anchor state for the fault proof system in order to prevent referencing invalid anchor states. Aside from implementing these fixes, the primary impact of this upgrade would be to reset user withdrawals at the planned time, similar to the initial Fault Proof upgrade.
+
+Granite is code complete in the optimism monorepo at commit a81de910dc2fd9b2f67ee946466f2de70d62611a and op-geth at commit 0f5b9dcfd2ac66f6fd8faae526b1549721f5f392.
+
+
+This proposal is eligible for  Voting Cycle #26: 
+<https://gov.optimism.io/t/upgrade-proposal-10-granite-network-upgrade/8733>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.
+
+",26226000000000000000000000,STANDARD,SUCCEEDED
+54063790427534137810643952875819462195520087349848607277556956345604303219862,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-08-01T18:00:19.000Z,2024-08-07T18:00:19.000Z,,,,Code of Conduct Council Elections,"# Code of Conduct Council Elections
+Following the approval of the Code of Conduct Council Operating Budget, the Token House will elect 5 Code of Conduct Council members. The top 5 most-voted candidates will be elected to the Season 6 Code of Conduct Council. You can review a video recording of the candidate town hall [here](https://gov.optimism.io/t/code-of-conduct-council-s6-election-town-hall/8627).
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+[Bubli.eth](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/4)
+
+
+[CryptoReuMD](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/8)
+
+
+[JuanRah](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/10)
+
+
+[Oxytocin](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/11)
+
+
+[NazreAssad](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/13)
+
+
+[Gabriel29](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/14)
+
+
+[Pumbi](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/15)
+
+
+[fujiar](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/16) - Citizen
+
+
+[gospelofchange](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/17)
+
+
+[Gus](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/18)
+
+
+[alexsotodigital](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/19_)
+
+
+[eve633](https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118/20)
+
+-----------------------------------------------------------------------------------------
+
+[This proposal is eligible for Voting Cycle #25:](https://gov.optimism.io/t/voting-cycle-roundup-25/8606)
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+90325319727942518873831548042238075814171401667882437093972023619135226172775,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-07-12T19:18:11.000Z,2024-07-18T19:18:11.000Z,,,,"Mission Requests: Intent #3A, 6M OP","# Mission Requests: Intent #3A, 6M OP
+In Season 6, the Token House will approval rank Mission Requests (requests for grants)  that work towards our Collective Intents. Below are the Mission Requests under Intent 3A: Grow Application Developers on OP Mainnet.These Mission Requests should work towards the below target metric: 
+
+**Target metric:** 9,500 active developers driving usage across the Superchain
+
+**Mission Requests are shown in the order suggested by the Grants Council**. As a voter, you may vote in order to accept the suggestion of the Grants Council or you may vote according to your own preferences. As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. [You can use this spreadsheet to see how your votes would impact the budget allocation.](https://docs.google.com/spreadsheets/d/1a_Qevueirx9JSsjDdBMZmglcTpDDbGwoXMWRc9ijDp0/edit?usp=sharing)
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum and fall within the ranking eligible to receive budget allocation. For more details, please see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203).
+
+Please note batch approval is required for Requests 1A-1D as they interoperate. If not all Requests 1A-1D are approved, none of them will receive budget. 
+
+*Intent 3A: Grow Application Developers on OP Mainnet, 6M OP Budgeted*
+
+Mission Requests:
+
+Request 1A: [Optimism Dominance in Yield-Bearing Assets 1](https://gov.optimism.io/t/mission-request-optimism-dominance-in-yield-bearing-assets-1-of-4/8435) 200,000 OP
+
+Request 1B: [Optimism Dominance in Yield-Bearing Assets 2](https://gov.optimism.io/t/mission-request-optimism-dominance-in-yield-bearing-assets-2-of-4/8436) 500,000 OP
+
+Request 1C: [Optimism Dominance in Yield-Bearing Assets 3](https://gov.optimism.io/t/mission-request-optimism-dominance-in-yield-bearing-assets-3-of-4/8440) 1,000,000 OP
+
+Request 1D: [Optimism Dominance in Yield-Bearing Assets 4](https://gov.optimism.io/t/mission-request-optimism-dominance-in-yield-bearing-assets-4-of-4/8510) 170,000 OP
+
+Request 2: [Subsidized Audit Grants](https://gov.optimism.io/t/mission-request-subsidized-audit-grants/8521) 250,000 OP
+
+Request 3: [Developer Tools](https://gov.optimism.io/t/mission-request-developer-tools/8515) 200,000 OP
+
+Request 4: [Research capital migration to the Superchain](https://gov.optimism.io/t/mission-request-research-capital-migration-to-the-superchain/8552) 100,000 OP
+
+Request 5: [Microgrants for Experimental Projects](https://gov.optimism.io/t/mission-request-draft-looking-for-feedback-microgrants-for-experimental-projects/8514) 50,000 OP
+
+Request 6: [Optimism as base for LRTs](https://gov.optimism.io/t/mission-request-optimism-as-base-for-lrts/8522) 600,000 OP
+
+Request 7 [Experimental Derivative Markets ](https://gov.optimism.io/t/mission-request-experimental-derivative-markets/8539) 200,000 OP
+
+Request 8: [ERC 4337 Data & Attribution Standards for the Superchain](https://gov.optimism.io/t/mission-request-erc-4337-data-attribution-standards-for-the-superchain/8532) 150,000 OP
+
+Request 9: [Sequencer commitment games](https://gov.optimism.io/t/draft-for-feedback-sequencer-commitment-games/8520) 10,000 OP
+
+Request 10: [Develop Onchain Social Games that attract Builders to Optimism - v2](https://gov.optimism.io/t/mission-request-v2-develop-onchain-social-games-that-attract-builders-to-optimism/8547) 75,000 OP
+
+Request 11: [Open-source transaction simulator](https://gov.optimism.io/t/mission-request-open-source-transaction-simulator/8548) 50,000 OP
+
+Request 12: [Increase Project Accounts](https://gov.optimism.io/t/mission-request-increase-project-accounts/8516) 200,000 OP
+
+Request 13: [Support on-chain games close to launch](https://gov.optimism.io/t/mission-request-support-on-chain-games-close-to-launch/8535) 70,000 OP
+
+Request 14:[Optimism as Venture Studio](https://gov.optimism.io/t/mission-request-startup-support-optimism-as-venture-studio/8551) 100,000 OP
+
+Request 15: [Gaming Infra in the Superchain](https://gov.optimism.io/t/mission-request-gaming-infra-in-the-superchain/8545) 150,000 OP
+
+Request 16: [Marquee Governance Hackaton](https://gov.optimism.io/t/mission-request-marquee-governance-hackathon/8537) 50,000 OP
+
+Request 17 :[Accelerating Game Development in the Superchain](https://gov.optimism.io/t/mission-request-accelerating-game-development-in-the-superchain/8536) 300,000 OP
+
+Request 18: [Decentralized Basis Trade](https://gov.optimism.io/t/mission-request-decentralized-basis-trade/8538/22) 200,000 OP
+
+Request 19: [Create Educational Programs that Empower Developers on Optimism - Modified with Lower Budget](https://gov.optimism.io/t/mission-request-create-educational-programs-that-empower-developers-on-optimism-modified-with-lower-budget/8553) 50,000 OP
+
+[This proposal is eligible for Voting Cycle #24:](https://gov.optimism.io/t/voting-cycle-roundup-24/8567)
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+61005589785236655268631485340221675868668620091725777228538771284249388228706,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-07-12T18:09:01.000Z,2024-07-18T18:09:01.000Z,,,,"Mission Requests: Intent #3B, 12M OP","# Mission Requests: Intent #3B, 12M OP
+In Season 6, the Token House will approval rank Mission Requests that work towards our Collective Intents. Below are the Mission Requests under Intent 3B: Grow Application Developers Across the Superchain. The Foundation has authored the only Mission Request under this Intent. 
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This Mission Request will be approved if it receives a minimum number of yes votes, equal to 51% of quorum. You should abstain from voting if you do not think this Mission Requests should be approved.
+
+*Intent 3B: Grow Application Developers Across the Superchain, 12M OP*
+
+Mission Request:
+
+Request 1: [Support the Superchain](https://gov.optimism.io/t/mission-request-intent-3b-support-the-superchain/8296) 12M OP
+
+[This proposal is eligible for Voting Cycle #24:](https://gov.optimism.io/t/voting-cycle-roundup-24/8567)
+
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+65455062571969058250090225122268525103397086668922971458194631878587521106020,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-07-12T18:09:01.000Z,2024-07-18T18:09:01.000Z,,,,"Mission Requests: Intent #1, 500k OP","# Mission Requests: Intent #1, 500k OP
+In Season 6, the Token House will approval rank Mission Requests (requests for grants) that work towards our Collective Intents. Below are the Mission Requests under Intent #1: Progress Towards Technical Decentralization: Governance. These Mission Requests should work towards the below target metrics: 
+
+**Token House governance:** Increase votable supply by 15% to 100M OP
+
+**Citizens’ House governance:** Increase in the percentage of Citizens that feel confident voting on upgrade vetos (to be measured via the voting UI in each veto proposal)
+
+**Mission Requests are shown in the order suggested by the Collective Feedback Commission.** As a voter, you may vote in order to accept the suggestion of the Collective Feedback Commission or you may vote according to your own preferences. You should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. [You can use this spreadsheet to see how your votes would impact the budget allocation.](https://docs.google.com/spreadsheets/d/1a_Qevueirx9JSsjDdBMZmglcTpDDbGwoXMWRc9ijDp0/edit?usp=sharing)
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum and fall within the ranking eligible to receive budget allocation. For more details, please see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203). 
+
+
+*Mission Requests:*
+
+Request 1: [Cross Chain Voting](https://gov.optimism.io/t/mission-request-cross-chain-voting/8517) 40,000 OP
+
+Request 2: [Research and Develop a framework to measure potential capture of the Token House](https://gov.optimism.io/t/mission-request-research-and-develop-a-framework-to-measure-potential-capture-of-the-token-house/8549) 90,000 OP
+
+Request 3: [Grants Claiming Tools](https://gov.optimism.io/t/mission-request-grants-claiming-tool/8513) 100,000 OP
+
+Request 4: [Analysis of Grant Programs](https://gov.optimism.io/t/draft-for-feedback-analysis-of-grant-programs/8524) 10,000 OP
+
+Request 5: [Voting Analysis](https://gov.optimism.io/t/mission-request-voting-analysis/8512) 50,000 OP
+
+Request 6: [Farcaster Social Graph](https://gov.optimism.io/t/mission-request-farcaster-social-graph/8518) 25,000 OP
+
+Request 7: [Develop non-technical solutions for increasin -both voter and token participation in the DAO](https://gov.optimism.io/t/mission-request-develop-non-technical-solutions-for-increasing-both-voter-and-token-participation-in-the-dao/8542) 75,000 OP
+
+Request 8: [Decentralized alternative for contract attestation placeholder](https://gov.optimism.io/t/mission-request-decentralized-alternative-for-contract-attestation/8555) 40,000 OP
+
+Request 9: [Create and Distribute Videos about Optimism Collective Governance](https://gov.optimism.io/t/mission-request-create-and-distribute-videos-about-optimism-collective-governance/8544) 60,000 OP
+
+Request 10: [Integration of Optimism Gov and RPGF into University Courses](https://gov.optimism.io/t/mission-request-integration-of-optimism-gov-and-rpgf-into-university-courses/8554) 100,000 OP
+
+[This proposal is eligible for Voting Cycle #24:](https://gov.optimism.io/t/voting-cycle-roundup-24/8567)
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+14140470239376219798070786387548096572382469675815006174305459677010858217673,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T21:22:37.000Z,2024-06-19T21:22:37.000Z,,,,Developer Advisory Board Elections,"# Developer Advisory Board Elections
+Following the approval of the Developer Advisory Board Operating Budget, the Token House will elect 5 Developer Advisory Board members, and the Board Lead will appoint the Upgrade Czar and Ops Lead roles based on who received the highest vote percentage among the candidates who have self-nominated for that role. The top 5 most-voted candidates will be elected to the Season 6 DAB. You can review an audio recording of the candidate town hall here. 
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+* [devtooligan](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/5)
+* [wildmolasses](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/6) / Ed Mazurek
+* [wbnns](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/16)
+* [bytes032](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/18)
+* [Jepsen](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/4)
+* [blockdev](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/14)
+* [anika](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/20)
+* [merklefruit](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/7)
+* [gmhacker](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/8)
+* [jtriley.eth](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/11)
+* [shekhirin](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/12) 
+* [philogy](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/13)
+* [noah.eth](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/15)
+* [chom](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/17)
+* [0xleastwood](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/21)
+* [alextnetto.eth](https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/22)
+
+
+This proposal is eligible for Special Voting Cycle #23b:
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+88658655411314992983575523105180250509368629063896834751261516507794732971264,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Season 6: V2. Code of Conduct Council Renewal,"# Season 6: V2. Code of Conduct Council Renewal 
+Please see the Code of Conduct Rescoping #2 before voting on this proposal: https://gov.optimism.io/t/season-6-code-of-conduct-rescoping-2/8101.
+
+
+This v2 proposal addresses feedback from the previous cycle, aiming to renew the Code of Conduct Council for Season 6. If approved, the Council will become a persistent structure within the Collective, managing the enforcement of the Rules of Engagement. 
+
+The proposed Code of Conduct Council Operating Budget, presented by Juan Carlos Bell (juankbell), is 26k OP: <https://gov.optimism.io/t/final-v2-code-of-conduct-council-operating-budget-re-scope-for-season-6-cycle-23b/8271>
+
+
+This proposal is eligible for Special Voting Cycle #23b: <https://gov.optimism.io/t/final-v2-code-of-conduct-council-operating-budget-re-scope-for-season-6-cycle-23b/8271>
+
+Delegates may choose to approve an operating budget for the Code of Conduct Council to oversee the Rules of Engagement in Season 6, effectively electing the proposal author as Council Lead. If delegates do not believe an elected Council is necessary to enforce the Rules of Engagement, they should not approve any operating budget for a Code of Conduct Council.
+
+In the event that no operating budget is approved for a Code of Conduct Council, the supportNERDs will continue to monitor the forum and enforce the Rules of Engagement as they previously have.
+
+",26226000000000000000000000,STANDARD,SUCCEEDED
+90369495475727036502467637477312343790528748282238130910775338005085857773129,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Chain Delegation Program Amendment,"# Chain Delegation Program Amendment
+The Chain Delegation Program was approved through the end of Season 6 but was not utilized in Season 5 due to extended timelines and the evolving Superchain strategy. It is still expected to be useful for onboarding the next ~15 OP Chains. This amendment refines the proposal to better support the Superchain strategy.
+
+Eligible OP Chains can receive up to 1.5M OP based on specific criteria. The proposed amendments would increase the program size to 20M OP, to support the first ~15 OP Chains, and extend the timeline to a rolling basis until all 15 Chains have completed their first year of participation. 
+
+
+This proposal is eligible for Special Voting Cycle #23b: <https://gov.optimism.io/t/season-6-chain-delegation-program-amendment/8125>
+
+If not approved, the program will will continue to receive the original 10M OP delegated from the Governance Fund and will terminate at the end of Season 6..
+",26226000000000000000000000,STANDARD,SUCCEEDED
+64254865747689238476482316231542329918557877728914510953881453289938881180826,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Anticapture Commission Amendment,"# Anticapture Commission Amendment 
+In Season 5, the Anticapture Commission was established to ensure governance decentralization and was approved through the end of Season 6. 
+
+The proposed amendments refine the Commission's mandate, goals, and membership criteria based on feedback. High-impact delegates meeting specific criteria will ensure robust participation and contribution.
+
+This proposal is eligible for Special Voting Cycle #23b: <https://gov.optimism.io/t/season-6-anticapture-commission-amendment/8124>
+
+ If the amendment is not approved, the program will continue through the end of Season 6 as originally scoped (without the amendment applied.) ",26226000000000000000000000,STANDARD,SUCCEEDED
+25880033934676971665723733541209586752614746252511258418137386650985468353208,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Grants Council Reviewer Elections: Audit Reviewer,"# Grants Council Reviewer Elections: Audit Reviewer
+Following the approval of the Grants Council Operating Budget, the Token House will elect 2 Audit Reviewers, from 4 candidates.You can review an audio recording of the candidate town hall [here](https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268/10?u=lavande).
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [m4rio.eth](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/19)
+* [AnthiasLabs](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/34)
+* [0xDonPepe](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/36)
+* [leo.sagan via seedlatam](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/41)
+
+This proposal is eligible for Special Voting Cycle #23b:
+<https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268>
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+75211317208514314448779845755057517991501022984157114294605202776133460426844,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Grants Council Reviewer Elections: Milestones and Metrics Reviewer,"# Grants Council Reviewer Elections: Milestones and Metrics Reviewer
+Following the approval of the Grants Council Operating Budget, the Token House will elect 3 Milestones and Metrics Reviewers, from 6 candidates. You can review an audio recording of the candidate town hall [here](https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268/10?u=lavande). 
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [Bubli.eth](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/10)
+* [Juanbug_PGov](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/14)
+* [mmurthy](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/22)
+* [v3naru_Curia](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/28)
+* [LauNaMu](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/43)
+* [suckmydiscoteque.eth](https://gov.optimism.io/t/season-6-elections-grants-council/8115/9)
+
+This proposal is eligible for Special Voting Cycle #23b:
+<https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268>
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+81327252303621408966396553066002664769894228780890895944699606923546941131316,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Grants Council Reviewer Elections: Mission Reviewer,"# Grants Council Reviewer Elections: Mission Reviewer
+Following the approval of the Grants Council Operating Budget, the Token House will elect 12 Mission Reviewers, from 23 candidates, the top 3 of whom will be considered Superchain Mission Reviewers. You can review an audio recording of the candidate town hall [here](https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268/10?u=lavande).
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+* [Derbygold.eth](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/4)
+* [katie](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/5)
+* [Jrocki](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/6)
+* [Michael](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/7)
+* [mastermojo](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/9)
+* [GFXlabs](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/11)
+* [MattL](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/12)
+* [alexsotodigital](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/13)
+* [jackanorak](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/15)
+* [MoneyManDoug](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/16)
+* [Sov](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/17)
+* [brichis](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/21)
+* [habacuc.eth via seedlatam](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/23)
+* [fujiar](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/25)
+* [Liliop.eth](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/37)
+* [DanSingjoy](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/38)
+* [Tane](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/39)
+* [Boardroom](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/42)
+* [kokocares](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/45)
+* [TomaszSwaczyna](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/46)
+* [Zeugh](https://gov.optimism.io/t/season-6-elections-grants-council/8115/12)
+* [Antoine](https://gov.optimism.io/t/season-6-nominations-grants-council/8116/40)
+
+This proposal is eligible for Special Voting Cycle #23b:
+<https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268>
+",26226000000000000000000000,APPROVAL,SUCCEEDED
+19894803675554157870919000647998468859257602050917884642551010462863037711179,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-06-13T20:09:31.000Z,2024-06-19T20:09:31.000Z,,,,Upgrade Proposal #9: Fjord Network Upgrade,"# Upgrade Proposal #9: Fjord Network Upgrade 
+This upgrade includes the EIP-7212 precompile to reduce gas costs of many smart wallet applications, supports Brotli batch compression for ~5-15% lower data availability costs, and improves the robustness of L1 data pricing. The upgrade also increases and hardcodes the max-sequencer-drift parameter, giving chain operators more time to respond to L1 node issues without facing a potential L2 chain halt.
+
+Fjord is code complete in the optimism monorepo at commit 4a487b8920daa9dc4b496d691d5f283f9bb659b1 and op-geth at commit 3fbae78d638d1b903e702a14f98644c1103ae1b3. 
+
+
+This proposal is eligible for Special Voting Cycle #23b: 
+<https://gov.optimism.io/t/upgrade-proposal-9-fjord-network-upgrade/8236>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.
+",26226000000000000000000000,STANDARD,SUCCEEDED
+4537769538885163906898768401836322976193114338273264147746088063279656611139,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T20:07:45.000Z,2024-05-29T20:07:45.000Z,,,,Season 6: Intent Budgets,"# Season 6: Intent Budgets 
+Intents are high-level strategic goals for the Collective. Each Intent is equipped with a Seasonal budget. The Foundation has proposed the below budgets under relevant Intents for Season 6. 
+
+<https://gov.optimism.io/t/season-6-intents-ratification/8104>
+
+Intent 1: Progress Towards Decentralization
+
+Proposed Gov Fund Budget: 500k OP
+
+Please note that the Gov Fund will not support technical decentralization under Intent #1 in Season 6.
+
+
+Intent 3: Grow Application Devs on the Superchain
+
+Proposed Gov Fund Budget: 18M OP, broken down as below: 
+
+Intent 3A: 6M OP for grants supporting OP Mainnet
+
+Intent 3B: 12M OP for chain-specific grant programs supporting the Superchain (to be run by these Chains).
+
+This proposal is eligible for Special Voting Cycle #23a: <https://gov.optimism.io/t/season-6-intents-ratification/8104>",26226000000000000000000000,STANDARD,SUCCEEDED
+23296680451920040311284556255465306513981293154669425902294655221457403608367,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:54:01.000Z,2024-05-29T19:54:01.000Z,,,,Season 6: Grants Council Operating Budget,"# Season 6: Grants Council Operating Budget 
+The Grants Council plays an important role in the Collective and is assumed to persist each Season. The Token House may vote on a Council Operating Budget, thereby electing the proposal author as Council Lead. Delegates are effectively electing the Council Lead that has authored the approved budget.
+
+The sole proposed Grants Council Operating Budget is proposed by Gonna.eth with a proposed operating budget of 610k OP: <https://gov.optimism.io/t/season-6-grants-council-operating-budget/8171>
+
+This proposal is eligible for Special Voting Cycle #23a: <https://gov.optimism.io/t/season-6-grants-council-operating-budget/8082>
+",26226000000000000000000000,STANDARD,SUCCEEDED
+6975052961793121236744122111241179429220183353809219742149740939877970567765,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:54:01.000Z,2024-05-29T19:54:01.000Z,,,,Season 6: Developer Advisory Board Renewal,"# Season 6: Developer Advisory Board Renewal 
+The Token House experimented with a Developer Advisory Board in Season 5. It is now time for delegates to assess whether the Board should be renewed. 
+
+Delegates may choose to approve an operating budget for the Developer Advisory Board to continue in Season 6. The operating budget with the highest number of “Yes” votes will be approved, electing the proposal author as Council Lead. If delegates do not believe the Developer Advisory Board should continue, they should not approve any operating budget for a Developer Advisory Board.
+
+This vote utilizes approval voting, allowing delegates to cast votes for multiple options with their full voting power cast for each option chosen. It is recommended that you only cast one vote to approve one operating budget (or don’t cast any votes if you do not wish to renew the Board.) 
+
+The first proposed DAB Operating Budget is by Zach Obront, with a budget of 90k OP: <https://gov.optimism.io/t/zach-obront-developer-advisory-board-operating-budget/8141>
+
+The second proposed DAB Operating Budget is by Ed Mazurek (wildmolasses), with a budget of 122k OP: <https://gov.optimism.io/t/ed-mazurek-developer-advisory-board-operating-budget/8175> 
+
+This proposal is eligible for Special Voting Cycle #23a: <https://gov.optimism.io/t/season-6-developer-advisory-board-renewal/8099>",26226000000000000000000000,APPROVAL,SUCCEEDED
+46662599590868619415724059715206858415123913604990481279137083354870809650669,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:05:57.000Z,2024-05-29T19:05:57.000Z,,,,Season 6: Intents Ratification,"# Season 6: Intents Ratification 
+Intents are high-level strategic goals for the Collective. As the Collective grows and these goals extend to the broader Superchain ecosystem, the Foundation will propose all Intents for Season 6. These Intents must be ratified by the full Token House. Ratification implies support of these strategic goals for Season 6. 
+
+Intent 1: Progress Towards Decentralization
+The Collective must continue progressing towards decentralized, scalable compute. This includes both technical and governance decentralization. 
+
+
+Intent 2: Bring Chains to the Superchain
+The focus of Intent #2 is growing the Superchain, by expanding the network of OP Chains contributing to the Collective. This strategy should allow the Collective to grow faster, go farther, and scale Ethereum more effectively.
+
+
+Intent 3: Grow Application Devs on the Superchain
+The goal is to grow application developers across all OP Chains. This supports developers globally in building demand-generating applications on any OP Chain in the Superchain.
+
+This proposal is eligible for Special Voting Cycle #23a: <https://gov.optimism.io/t/season-6-intents-ratification/8104>",26226000000000000000000000,STANDARD,SUCCEEDED
+105090569675606228680479820654354019470447822380910214626164858605991232311940,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:05:57.000Z,2024-05-29T19:05:57.000Z,,,,Season 6: Code of Conduct Council Renewal,"# Season 6: Code of Conduct Council Renewal 
+Please read Code of Conduct Rescoping #2 before voting on this proposal: https://gov.optimism.io/t/season-6-code-of-conduct-rescoping-2/8101
+
+The Token House experimented with a Code of Conduct Council in Season 5. It is now time for delegates to assess whether the Council should be renewed. 
+
+Delegates may choose to approve an operating budget for the Code of Conduct Council to oversee the Rules of Engagement in Season 6, effectively electing the proposal author as Council Lead. If delegates do not believe an elected Council is necessary to enforce the Rules of Engagement, they should not approve any operating budget for a Code of Conduct Council.
+
+In the event that no operating budget is approved for a Code of Conduct Council, the supportNERDs will continue to monitor the forum and enforce the Rules of Engagement as they previously have. 
+
+The sole proposed Code of Conduct Council Operating Budget is proposed by Juan Carlos Bell (juankbell) with a proposed operating budget of 55k OP: <https://gov.optimism.io/t/draft-code-of-conduct-council-cocc-operating-budget-for-season-6/8167/1>
+
+This proposal is eligible for Special Voting Cycle #23a: https://gov.optimism.io/t/season-6-code-of-conduct-council-renewal/8100",26226000000000000000000000,STANDARD,DEFEATED
+47257038716514883626179774712509684309799801257166588609178192779726195852111,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:05:57.000Z,2024-05-29T19:05:57.000Z,,,,Governor Update Proposal #2: Improvements to advanced delegation allowance calculations,"# Governor Update Proposal #2: Improvements to advanced delegation allowance calculations 
+This proposal introduces improvements to the Alligator allowance storage system, enabling partial and sub-delegation for OP voters. This update ensures accurate voting power calculation, addressing issues found in advanced delegation.
+
+If approved by governance, the Optimism Foundation admin will set the new implementation of governor proxy at 0xcDF27F107725988f2261Ce2256bDfCdE8B382B10 to new implementation deployed at 0xb7b1c8d8cc590b91623f493af3ee8c0a0a282b74.
+
+This proposal is eligible for Special Voting Cycle #23a: 
+<https://gov.optimism.io/t/governor-update-proposal-2-improvements-to-advanced-delegation-allowance-calculations/8164>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.",26226000000000000000000000,STANDARD,SUCCEEDED
+89250535338859095270968116984279971013811713632639468811376241520756760598962,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:05:57.000Z,2024-05-29T19:05:57.000Z,,,,Protocol Upgrade #8: Changes for Stage 1 Decentralization,"# Protocol Upgrade #8: Changes for Stage 1 Decentralization 
+This protocol upgrade enhances security and decentralization by increasing the Security Council Safe’s signing threshold from 4 to 10 out of 13, reassigning the Guardian role to a new Guardian Safe controlled by the Security Council Safe, and appointing the Foundation as DeputyGuardian. It also reassigns the L2ProxyAdmin contract owner from the Foundation to the Security Council, ensuring the Security Council Safe has a blocking vote for L2 predeploy upgrades. Combined with Protocol Upgrade #7, we believe this satisfies the criteria to have OP Chains reach Stage 1 status.
+
+Associated contracts are tagged in the optimism repo at commit 9047beb (tagged as release candidate op-contracts/v1.5.0-rc.1).
+
+This proposal is eligible for Special Voting Cycle #23a: 
+<https://gov.optimism.io/t/upgrade-proposal-guardian-security-council-threshold-and-l2-proxyadmin-ownership-changes-for-stage-1-decentralization/8157>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.",26226000000000000000000000,STANDARD,SUCCEEDED
+72085170435228531173144599119267762084652443676555508407874836206178427511368,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-05-23T19:05:57.000Z,2024-05-29T19:05:57.000Z,,,,Protocol Upgrade #7: Fault Proofs,"# Protocol Upgrade #7: Fault Proofs 
+This upgrade reduces trust assumptions for OP Mainnet users by enabling permissionless output proposals and a fault proof system, maintaining the guardian's override capability for security. Withdrawals will no longer rely on a privileged proposer, allowing the process to be completed without any privileged actions. Combined with Protocol Upgrade #8, we believe this satisfies the criteria to have OP Chains reach Stage 1 status.
+
+Associated contracts are tagged in the optimism repo at commit 547ea72d9849e13ce169fd31df0f9197651b3f86 (tagged as release candidate op-contracts/v1.4.0-rc.4).
+
+
+This proposal is eligible for Special Voting Cycle #23a: 
+<https://gov.optimism.io/t/upgrade-proposal-fault-proofs/8161>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House.",26226000000000000000000000,STANDARD,SUCCEEDED
+63758762292293008954414933414904836930778692439616923618399126968620365661274,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-04-11T21:06:21.000Z,2024-04-17T21:06:21.000Z,,,,Governor Upgrade #1: Improve advanced delegation voting,"# Governor Upgrade #1: Improve advanced delegation voting 
+This update enables voters with advanced delegated voting power to cast their votes in a single transaction. This enhancement addresses user feedback on the advanced delegation feature, simplifying the voting process.
+
+If approved by governance, the Optimism Foundation admin will set the governor proxy to a new implementation deployed at 0x637DA4Eeac836188D8C46F63Cb2655f4d3C9F893.
+
+
+This proposal is eligible for Voting Cycle #21: 
+<https://gov.optimism.io/t/proposal-improve-advanced-delegation-voting/7932/1>
+",26226000000000000000000000,STANDARD,SUCCEEDED
+79153197521552675573175103134699879266644135524341625272698131484806349525411,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-04-11T20:43:07.000Z,2024-04-17T20:43:07.000Z,,,,Season 5 : Intents Budget Proposal #2,"# Season 5 : Intents Budget Proposal #2 
+This proposal seeks to reallocate 1,040,000 OP from the Gov Fund to support Mission Requests with strong demand rather than returning that OP to the Gov Fund. 
+
+
+This proposal is eligible for Voting Cycle #21: 
+<https://gov.optimism.io/t/season-5-intents-budget-proposal-2/7937>
+",26226000000000000000000000,STANDARD,SUCCEEDED
+47253113366919812831791422571513347073374828501432502648295761953879525315523,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-29T21:51:37.000Z,2024-03-06T21:51:37.000Z,,,,Protocol Upgrade #6: Multi-Chain Prep (MCP) L1,"# Protocol Upgrade #6: Multi-Chain Prep (MCP) L1
+Upgrade proposal: MCP - This protocol upgrade strengthens the security and upgradeability of the Superchain by enabling L1 contracts to be upgraded atomically across multiple chains in a single transaction. This upgrade also extends the SystemConfig to contain the addresses of the contracts in the network, allowing users to discover the system’s contract addresses programmatically.
+The upgrade is code complete as of commit [e6ef3a900c42c8722e72c2e2314027f85d12ced5](https://github.com/ethereum-optimism/optimism/commit/e6ef3a900c42c8722e72c2e2314027f85d12ced5) ([release](https://github.com/ethereum-optimism/optimism/releases/tag/op-contracts%2Fv1.3.0-rc.1) and [tag](https://github.com/ethereum-optimism/optimism/tree/op-contracts/v1.3.0-rc.1)) in the Optimism monorepo.
+
+This proposal is eligible for Voting Cycle #19: 
+<https://gov.optimism.io/t/upgrade-proposal-6-multi-chain-prep-mcp-l1/7677>
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House. 
+",26571000000000000000000000,STANDARD,SUCCEEDED
+95119698597711750186734377984697814101707190887694311194110013874163880701970,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-29T21:51:37.000Z,2024-03-06T21:51:37.000Z,,,,Protocol Upgrade #5: Ecotone Network Upgrade,"# Protocol Upgrade #5: Ecotone Network Upgrade
+This is a proposal for the Ecotone network upgrade, which adopts EIP-4844 blobs for data availability and activates Dencun L1 extensions. The remaining changes in this upgrade bring the core improvements from the L1 Dencun hardfork into the OP stack, including new opcodes and the beacon root support. While blob data availability requires L1 Dencun activation, the Ecotone upgrade can be activated independently of it.
+
+If this vote passes, the Ecotone upgrade will be scheduled for execution on March 14th at 00:00:01 UTC. 
+
+The upgrade will occur automatically for nodes on a release which contains the baked in activation time. Ecotone is code complete in the optimism monorepo at commit f707883038d527cbf1e9f8ea513fe33255deadbc and op-geth at commit 0402d543c3d0cff3a3d344c0f4f83809edb44f10. 
+
+This proposal is eligible for Voting Cycle #19: 
+<https://gov.optimism.io/t/upgrade-proposal-5-ecotone-network-upgrade/7669>
+
+
+If passed in the Token House, it will proceed to a veto period in the Citizens’ House. 
+",26571000000000000000000000,STANDARD,SUCCEEDED
+110376471005925230990107796624328147348746431603727026291575353089698990280147,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-09T01:17:21.000Z,2024-02-15T01:17:21.000Z,,,,Protocol Upgrade #4,"# Protocol Upgrade #4
+This upgrade, proposed by OP Labs, introduces a new L1 contract, the SuperchainConfig, along with improvements to the existing pause mechanism.The proposed upgrade takes the current incident response mechanism a step further, introducing a Superchain-wide pause mechanism that can enhance protection across multiple fronts, including the L1CrossDomainMessenger and withdrawals for ERC-20 and ERC-721 tokens, which are additional security critical code paths that protect user assets.
+
+If this vote passes, the L1 contracts which support the OP Mainnet network will be upgraded to the versions of those contracts in the optimism repo at commit 856c08b (tagged as release candidate op-contracts/v1.2.0-rc.1).
+
+
+This proposal is eligible for Voting Cycle #18: 
+<https://gov.optimism.io/t/upgrade-Request-4/7534>",26571000000000000000000000,STANDARD,SUCCEEDED
+87887380345359316303511900248014470638082162026872636188610669661624292635896,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-09T01:17:21.000Z,2024-02-15T01:17:21.000Z,,,,"Mission Requests: Intent #4, 1.33M OP","# Mission Requests: Intent #4, 1.33M OP
+In Season 5, the Token House will approval rank Mission Requests that work towards our Collective Intents. Mission Requests outline specific initiatives aimed at achieving one of the Intents. Once approved, teams will apply to fulfill each Request by submitting a Mission Application. Below are the Mission Requests under Intent #4: Improve Governance Accessibility.
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked Requests, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203).
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. You can view some guidelines on factors to consider [here](https://gov.optimism.io/t/mission-request-evaluations/7553).
+
+--
+
+Mission Requests 
+Request 4A: [AI Assistant for governance support Mission Request](https://gov.optimism.io/t/draft-ai-assistant-for-governance-support-mission-request/7156) 
+
+Request 4B: [Building Identity - Driving Adoption of Attestations](https://gov.optimism.io/t/draft-building-identity-driving-adoption-of-attestations/7471) 
+
+Request 4C: [Create a grants Supertracker for the Optimism Collective and the Superchain](https://gov.optimism.io/t/ready-to-vote-create-a-grants-supertracker-for-the-optimism-collective-and-the-superchain/7383)
+
+Request 4D: [Create Videos about Optimism](https://gov.optimism.io/t/draft-create-videos-about-optimism/7435) 
+
+Request 4E: [Delegation Quest SDK Mission Request](https://gov.optimism.io/t/draft-rabbithole-delegation-quest-sdk-mission-request/7412) 
+
+Request 4F: [Incentivize and increase governance participation](https://gov.optimism.io/t/draft-incentivize-and-increase-governance-participation/7414) 
+
+Request 4G: [Integration of Optimism Gov and RPGF Modules into University Courses](https://gov.optimism.io/t/ready-to-vote-integration-of-optimism-gov-and-rgpf-into-university-courses/7409) 
+
+Request 4H: [Interactive Educational Program for Delegates and Governance Contributors](https://gov.optimism.io/t/draft-interactive-educational-program-for-delegates-and-overnance-contributors/7432) 
+
+Request 4I: [Making Impact Evaluation Accessible](https://gov.optimism.io/t/draft-making-impact-evaluation-accessible/7489) 
+
+Request 4J: [Governance Mentorship Program Mission Request](https://gov.optimism.io/t/draft-governance-mentorship-program-mission-request/7315) 
+",26571000000000000000000000,APPROVAL,SUCCEEDED
+28717615714293937494900642239604511349625947114847340322672351149517127794996,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-09T01:17:21.000Z,2024-02-15T01:17:21.000Z,,,,"Mission Requests: Intent #3, 1.33M OP","# Mission Requests: Intent #3, 1.33M OP
+In Season 5, the Token House will approval rank Mission Requests that work towards our Collective Intents. Mission Requests outline specific initiatives aimed at achieving one of the Intents. Once approved, teams will apply to fulfill each Request by submitting a Mission Application. Below are the Mission Requests under Intent #3: Improve the Consumer Experience.
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked Requests, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203).
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. You can view some guidelines on factors to consider [here.](https://gov.optimism.io/t/mission-request-evaluations/7553)
+
+
+--
+
+Mission Requests 
+
+Request 3A: [Advancing Optimism Anonymous Community and Governance Tooling](https://gov.optimism.io/t/draft-advancing-optimism-anonymous-community-and-governance-tooling/7437) 
+
+Request 3B: [An Optimistic Future for Art](https://gov.optimism.io/t/draft-onboard-more-artists-collectors-and-patrons-to-the-superchain/7490) 
+
+Request 3C: [Crowdsourcing useful verifiable data](https://gov.optimism.io/t/draft-crowdsourcing-useful-verifiable-data/7458) 
+
+Request 3D: [Deliver a Best-in-Class Perp Dex Mission Request](https://gov.optimism.io/t/draft-deliver-a-best-in-class-perp-dex-mission-request/7415) 
+
+Request 3E: [Incentivize Projects to Integrate the Farcaster Social Graph](https://gov.optimism.io/t/draft-incentivize-projects-to-integrate-the-farcaster-social-graph/7403) 
+
+Request 3F: [Marketing Support Services mission request](https://gov.optimism.io/t/marketing-support-services-mission-request/7362) 
+
+
+Request 3G: [Onboarding existing communities/organizations to Optimism, solving real-world problems](https://gov.optimism.io/t/draft-onboarding-existing-communities-organizations-to-optimism-solving-real-world-problems/7433) 
+
+Request 3H: [Onboarding Prominent Content Creators in Strategic Markets to OP and RPGF](https://gov.optimism.io/t/draft-onboarding-prominent-content-creators-in-strategic-markets-to-op-and-rpgf/7440) 
+
+
+Request 3I: [Onchain Quest & Education Infrastructure](https://gov.optimism.io/t/draft-onchain-quest-education-infrastructure/7314) 
+
+Request 3J: [Optimism Ecosystem Proof of Provenance Infrastructure (EPPI) Mission Request](https://gov.optimism.io/t/ready-to-vote-eppi-mission-request/7152) 
+
+Request 3K: [Scale ENS to Optimism](https://gov.optimism.io/t/draft-scale-ens-to-optimism/7406) 
+
+
+Request 3L: [Superchain Accounts](https://gov.optimism.io/t/draft-superchain-accounts/7427) 
+
+
+Request 3M: [Municipal Public Goods Funding Infrastructure on Optimism](https://gov.optimism.io/t/ready-to-vote-municipal-public-goods-funding-infrastructure-on-optimism/7488/1)
+
+",26571000000000000000000000,APPROVAL,SUCCEEDED
+73015178396219273083926854824941753345309809188523598109189308270327699475780,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-09T01:17:21.000Z,2024-02-15T01:17:21.000Z,,,,"Mission Requests: Intent #2, 4M OP","# Mission Requests: Intent #2, 4M OP
+In Season 5, the Token House will approval rank Mission Requests that work towards our Collective Intents. Mission Requests outline specific initiatives aimed at achieving one of the Intents. Once approved, teams will apply to fulfill each Request by submitting a Mission Application. Below are the Mission Requests under Intent #2: Grow the Superchain.
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked Requests, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203).
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. You can view some guidelines on factors to consider [here.](https://gov.optimism.io/t/mission-request-evaluations/7553)
+
+-- 
+
+Mission Requests
+
+Request 2A: [Additional Revenue Sources to Fund RetroPGF Rounds](https://gov.optimism.io/t/ready-to-vote-additional-revenue-sources-to-fund-retropgf-rounds/7434) 
+
+Request 2B: [Builders grants program mission request](https://gov.optimism.io/t/ready-to-vote-builders-grants-program-mission-request/7331) 
+
+Request 2C: [Enabling ERC-7281 (xERC20 Tokens) Support on the Superchain Mission Request](https://gov.optimism.io/t/ready-to-vote-enabling-xerc20-tokens-support-on-the-superchain-mission-request/7410) 
+
+Request 2D: [Facilitate capital migration to the Superchain](https://gov.optimism.io/t/ready-to-vote-facilitate-capital-migration-to-the-superchain/7411) 
+
+Request 2E: [Growth and experiments grants program mission request](https://gov.optimism.io/t/ready-to-vote-growth-and-experiments-grants-program-mission-request/7330) 
+
+Request 2F: [Hosting “Optimism Unleashed” event at EthCC 2024](https://gov.optimism.io/t/ready-to-vote-hosting-optimism-unleashed-event-at-ethcc-2024/7424) 
+
+
+Request 2G: [Layerwide new project support](https://gov.optimism.io/t/ready-to-vote-layerwide-new-project-support/7416) 
+
+Request 2H: [Making Optimism a primary home of liquid staked eth](https://gov.optimism.io/t/ready-to-vote-making-optimism-a-primary-home-of-liquid-staked-eth/7456) 
+
+
+Request 2I: [Novel treasury bootstrapping solutions](https://gov.optimism.io/t/ready-to-vote-novel-treasury-bootstrapping-solutions/7450) 
+
+Request 2J: [Onramping](https://gov.optimism.io/t/ready-to-vote-onramping-mission-request/7390) 
+
+Request 2K: [OptiHack Global Initiative](https://gov.optimism.io/t/ready-to-vote-optihack-global-initiative/7325) 
+
+
+Request 2L: [smart contract auditing services](https://gov.optimism.io/t/ready-to-vote-smart-contract-auditing-services/7464) 
+
+
+Request 2M: [Superchain Hackathon Mission Request](https://gov.optimism.io/t/ready-to-vote-superchain-hackathon-mission-request/7252) 
+
+
+Request 2N: [ZK Toolkit for ZK Application Developers](https://gov.optimism.io/t/draft-zk-toolkit-for-zk-application-developers/7444) 
+",26571000000000000000000000,APPROVAL,SUCCEEDED
+98465291872542951214209322719211107762519739238690458061430483715486199997958,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-02-09T01:17:21.000Z,2024-02-15T01:17:21.000Z,,,,"Mission Requests: Intent #1, 1.33M OP","# Mission Requests: Intent #1, 1.33M OP
+In Season 5, the Token House will approval rank Mission Requests that work towards our Collective Intents. Mission Requests outline specific initiatives aimed at achieving one of the Intents. Once approved, teams will apply to fulfill each Request by submitting a Mission Application. Below are the Mission Requests under Intent #1: Progress towards technical decentralization. 
+
+NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST
+
+This vote utilizes approval voting. Mission Requests will be approval ranked based on the number of yes votes. Each Mission Request must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked Requests, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-requests/6203).
+
+As a voter, you should vote yes on all Mission Requests you think should be approved, and you should abstain from voting on Mission Requests you do not think should be approved. You can view some guidelines on factors to consider [here.](https://gov.optimism.io/t/mission-request-evaluations/7553)
+
+--
+
+Mission Requests:
+
+Request 1A: [Alternative CL/EL client Mission Request](https://gov.optimism.io/t/ready-to-vote-alternative-cl-el-client-mission-request/7363) 
+
+Request 1B: [Decentralized rollup-as-a-service](https://gov.optimism.io/t/ready-to-vote-decentralized-rollup-as-a-service/7467) 
+
+Request 1C: [Fraud Proof CTF Mission Request](https://gov.optimism.io/t/ready-to-vote-fraud-proof-ctf-mission-request/7445)
+
+Request 1D: [Implement a prototype of an OP stack chain with mempool encryption](https://gov.optimism.io/t/ready-to-vote-implement-a-prototype-of-an-op-stack-chain-with-mempool-encryption/7448) 
+
+Request 1E: [OP Stack Research and Implementation](https://gov.optimism.io/t/ready-to-vote-op-stack-research-and-implementation/7397) 
+
+Request 1F: [Open Source OP Stack Developer Tooling](https://gov.optimism.io/t/ready-to-vote-open-source-op-stack-developer-tooling/7417)
+",26571000000000000000000000,APPROVAL,SUCCEEDED
+114318499951173425640219752344574142419220609526557632733105006940618608635406,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-01-18T19:45:51.000Z,2024-01-24T19:45:51.000Z,,,,Summary of Code of Conduct enforcement decisions,"# Summary of Code of Conduct enforcement decisions
+The elected Token House Code of Conduct Council’s decisions are subject to optimistic approval by the Token House. That means the Council’s decisions are assumed to be approved unless 12% of the votable supply in the Token House votes to veto an enforcement action. You should only cast a vote if you want to override the decisions made by the Council. If this proposal is veto-d, the enforcement actions will go to a full Token House vote. 
+
+This proposal is eligible for Voting Cycle #17: 
+<https://gov.optimism.io/t/code-of-conduct-council-communication-thread/7453> ",31715894510723261739407769,OPTIMISTIC,SUCCEEDED
+10572947036210533292634221606922807092762967787561796032397523909369599512554,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-01-18T19:43:05.000Z,2024-01-24T19:43:05.000Z,,,,Proposal to Reclassify Grant Misusage Enforcement,"# Proposal to Reclassify Grant Misusage Enforcement
+The Foundation proposes two changes to eliminate delegate responsibility for grant misusage enforcement. This proposal is based on strong feedback from delegates that they do not wish to vote on enforcement actions and instead transfers this responsibility to the elected Token House Code of Conduct Council. 
+
+This proposal is eligible for Voting Cycle #17: 
+<https://gov.optimism.io/t/proposal-to-reclassify-grant-misusage-enforcement/7384>",25500000000000000000000000,STANDARD,SUCCEEDED
+64861580915106728278960188313654044018229192803489945934331754023009986585740,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2024-01-18T19:36:37.000Z,2024-01-24T19:36:37.000Z,,,,Upgrade Proposal #3: Delta Network Upgrade,"# Upgrade Proposal #3: Delta Network Upgrade 
+This upgrade (“Delta”) contains a single consensus-layer feature, Span Batches.
+
+The code for the Delta upgrade is ready in the following Optimism monorepo hash: 54a7dbf8aa9b982f9c6a54cbbe448be41c0b7bc7 
+
+Test in Prod proposes 00:00:00 Feb 22, 2024, UTC for the Delta hard fork time—1707922800 in Unix Timestamp. 
+
+This proposal is eligible for Voting Cycle #17: 
+<https://gov.optimism.io/t/ready-to-vote-upgrade-proposal-3-delta-network-upgrade/7310>",25500000000000000000000000,STANDARD,SUCCEEDED
+20327152654308054166942093105443920402082671769027198649343468266910325783863,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-23T18:50:29.000Z,2023-12-06T19:20:29.000Z,,,,Upgrade #2: Canyon Protocol Upgrade,"# Upgrade #2: Canyon Protocol Upgrade
+This proposal outlines the Optimism Collective’s first network upgrade after Bedrock, titled Canyon. The Canyon upgrade contains the Shapella network upgrade from Ethereum, a change to reduce the volatility of the basefee, and several minor bug fixes. This upgrade maintains EVM equivalence and includes several OP Stack specific improvements.
+
+Canyon is code complete in the optimism monorepo at commit 6cce3728b7bed5e36234aeba3b773e0f97867be3 and op-geth at commit ed8e9f54ed0a5069e77ea34895ff12a9ac4ca17f
+If this vote passes, Canyon will activate on op-mainnet, base-mainnet, pgn-mainnet, & zora-mainnet on Thu Jan 11 17:00:01 UTC 2024 (Unix Time 1704992401) barring a critical security issue.
+
+This vote requires a 76% approval threshold. The value displayed by the frontend may differ.
+
+This proposal is eligible for Special Voting Cycle #16c: 
+https://gov.optimism.io/t/draft-upgrade-proposal-2-canyon-network-upgrade/7088",0,STANDARD,SUCCEEDED
+85591583404433237270543189567126336043697987369929953414380041066767718361144,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-23T18:47:49.000Z,2023-12-06T19:17:49.000Z,,,,Ratify Security Council Members,"# Ratify Security Council Members
+If approved, the below members, appointed by the Optimism Foundation, will serve an initial term on the Optimism Security Council:
+
+Cohort A (12 month initial term)
+Kris Kaczor (Phoenix Labs)
+Layne Haber (Connext)
+Jon Charbonneau (DBA)
+Alisha.eth (Glowworm Foundation, former ENS)
+Mariano Conti (Independent, former MakerDAO)
+Martin Tellechea (The Graph Foundation)
+Yoseph Ayele (Borderless Africa)
+Cohort B (18 month initial term)
+OP Labs PBC
+Yoav Weiss (Ethereum Foundation)
+Test in Prod
+Kain Warwick (Synthetix)
+Coinbase Technologies, Inc. (Base)
+Elena Nadolinkski (Ironfish)
+L2Beat
+Alejandro Santander (Independent, former Synthetix)
+
+A Council Lead will be appointed by the Foundation at a later date. 
+
+This proposal is eligible for Special Voting Cycle #16c
+https://gov.optimism.io/t/security-council-vote-2-initial-member-ratification/7118",0,STANDARD,SUCCEEDED
+102821998933460159156263544808281872605936639206851804749751748763651967264110,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T20:59:25.000Z,2023-11-15T20:29:25.000Z,,,,Code of Conduct Council: Member Nominations,"# Code of Conduct Council: Member Nominations
+Season 5 will further decentralize the Foundation's role in processing violations of the Code of Conduct and remove enforcement responsibility from Token House delegates by electing a Code of Conduct Council. The Token House will elect 5 Members to the Code of Conduct Council.
+
+Candidates:
+
+-   [Juankbell](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/4?u=marcus)
+
+-   [Teresacd](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/5?u=marcus)
+
+-   [Oxytocin](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/6?u=marcus)
+
+-   [Axel_T](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/8)
+
+-   [Gene](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/9)
+
+-   [Juanbug_PGov](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/10)
+
+-   [Bubli.eth](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/11)
+
+-   [Ayohtunde](https://gov.optimism.io/t/code-of-conduct-council-nominations-season-5/6901/12)
+
+This proposal is eligible for Special Voting Cycle #16b.
+",0,APPROVAL,SUCCEEDED
+11595556248137084019024264942104169821784001997050285438055123196153848845549,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Season 5 Intent Budgets,"# Season 5 Intent Budgets
+The Intents for Season 5 and their budgets proposed by the Grants Council Lead are:
+
+-   Intent #1: Progress Towards Technical Decentralization
+    -   Proposed budget: 1.33M OP
+
+-   Intent #2: Grow the Superchain
+    -   Proposed budget: 4M OP
+
+-   Intent #3: Improve the Consumer Experience
+    -   Proposed budget: 1.33M OP
+
+-   Intent #4: Improve Governance Accessibility
+    -   Proposed budget: 1.33M OP
+
+-   Unallocated Budget: 1M reserved for general allocation
+
+Total Intents Budget: up to 9M OP
+
+Any budget that is not allocated under these Intent will be returned to the Governance Fund.
+
+This proposal is eligible for Special Voting Cycle #16b:
+<https://gov.optimism.io/t/season-5-intents-budget-proposal/7040>
+",0,STANDARD,SUCCEEDED
+23645858735980247449510302520189443998369792603230659191221949690963680987113,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Chain Delegation Program,"# Chain Delegation Program
+The Chain Delegation Program would temporarily delegate a portion of idle OP from the Governance Fund to value-aligned OP Chains. If this proposal is approved by the Token House, a total of 10M OP would be reserved for delegation across as many as 10 OP Chains. Delegations will be made throughout Season 5 and 6, as Chains qualify.
+
+This proposal is eligible for Special Voting Cycle #16b: 
+<https://gov.optimism.io/t/chain-delegation-program/6896>
+",0,STANDARD,SUCCEEDED
+112047914448178129124907599845371359974256142096707624346739203514792263033877,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Ratification of Law of Chains,"# Ratification of Law of Chains
+The Law of Chains is an open neutrality framework that establishes certain protections for participants in the Superchain ecosystem. Its purpose is to promote core principles of user protection, decentralization and economic autonomy as foundations for the developing Superchain. The Token House will ratify this foundational governing document.
+
+This proposal is eligible for Special Voting Cycle #16b:
+<https://gov.optimism.io/t/ratification-law-of-chains/7049>
+",0,STANDARD,SUCCEEDED
+13644637236772462780287582686131348226526824657027343360896627559283471469688,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Grants Council Reviewer Elections: Builders,"# Grants Council Reviewer Elections: Builders
+Following the approval of the Grants Council Operating Budget, the Token House will elect 5 Reviewers to the Builders Grants sub-committee.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+
+-   [Jack Anorak](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/6)
+
+-   [Gonna.eth](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/8?u=marcus)
+
+-   [Mastermojo](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/15?u=marcus)
+
+-   [Ethernaut](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/16?u=marcus)
+
+-   [Hyprdev](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/18)
+
+-   [Kaereste](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/27)
+
+-   [0xMilton](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/31)
+
+-   [Joxes](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/32)
+
+-   [DanSingjoy](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/33)
+
+-   [encrypted_soul](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/35?u=marcus)
+
+This proposal is eligible for voting in Special Voting Cycle #16b.
+",0,APPROVAL,SUCCEEDED
+87355419461675705865096288750937924893466943101654806912041265394266455745819,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Grants Council Reviewer Elections: Growth Experiments,"# Grants Council Reviewer Elections: Growth Experiments
+Following the approval of the Grants Council Operating Budget, the Token House will elect 5 Reviewers to the Growth Experiments Grants sub-committee.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+
+-   [Michael Vander Meiden](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/4)
+
+-   [Nanobro](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/5)
+
+-   [Katie Garcia](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/7)
+
+-   [MoneyManDoug](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/9?u=marcus)
+
+-   [GFX](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/10?u=marcus)
+
+-   [Matt L](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/11?u=marcus)
+
+-   [Brichis](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/14?u=marcus)
+
+-   [Subli_Defi](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/23)
+
+-   [Derbygold.eth](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/24)
+
+-   [Fujiar](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/26)
+
+-   [Divergent](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/30)
+
+This proposal is eligible for voting in Special Voting Cycle #16b.
+",0,APPROVAL,SUCCEEDED
+96868135958111078064987938855232246504506994378309573614627090826820561655088,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-11-02T19:41:27.000Z,2023-11-15T20:01:27.000Z,,,,Grants Council Reviewer Elections: Milestones and Metrics,"# Grants Council Reviewer Elections: Milestones and Metrics
+Following the approval of the Grants Council Operating Budget, the Token House will elect 3 Reviewers to the Milestones and Metrics sub-committee.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+Candidates:
+
+-   [Ocandocrypto](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/12?u=marcus)
+
+-   [Mmurthy](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/13?u=marcus)
+
+-   [Feiwian](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/17?u=marcus)
+
+-   [Juanbug_PGov ](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/19)
+
+-   [Srijith](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/20)
+
+-   [Raho ](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/25)
+
+-   [LauNaMu](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/28)
+
+-   [Chain_L](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/29)
+
+-   [v3naru_Curia](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900/34)
+
+This proposal is eligible for voting in Special Voting Cycle #16b.
+",0,APPROVAL,SUCCEEDED
+22387138384033903985192420283570655912990907953544385753324581204637906644383,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Anticapture Commission,"# Anticapture Commission
+Season 5 introduces an Anticapture Commission, comprised of the highest impact delegates. The Anticapture Commission will have a mandate to represent the interests of individual delegates as a key stakeholder group, and to prevent capture of the Token House by any one stakeholder group. If approved by the Token House, the Anticapture Commission would be delegated 10M OP from the Governance Fund in Season 5 and 6.
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/anticapture-commission/6889>
+",0,STANDARD,SUCCEEDED
+67269789039629895178640755758170247888863792004069768037736283616310331965838,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Developer Advisory Board Budget,"# Developer Advisory Board Budget
+Given the need for Optimism governance to make good technical decisions, the Foundation is proposing the establishment of a Developer Advisory Board to assess Missions and grant milestones under Intent #1. The Foundation proposes an initial budget of 12,500 OP per Advisory Board Member (excluding the OP Labs representative and a DAB member who will forego their tokens) and 20,000 OP for the Advisory Board Lead, for a total budget of 70,000 OP to be dispersed out of the Governance Fund at the end of Season 5.
+
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/developer-advisory-board/6892>
+",0,STANDARD,SUCCEEDED
+95102633290576253416299445955061077431090693890673037767791097228222587378331,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Ratify Developer Advisory Board Members,"# Ratify Developer Advisory Board Members
+The initial Developer Advisory Board will be comprised of seven members, one of which will be a non-voting member of OP Labs engineering, and a DAB Lead. The Lead will manage general coordination and operations and will be a non-voting member. If approved, the Foundation will appoint the below members:
+
+-   Board Lead: [Brock](https://twitter.com/brockjelmore)
+
+-   Board Member: [Philogy ](https://twitter.com/real_philogy)
+
+-   Board Member (forfeiting compensation): [Noah](https://twitter.com/NoahCitron)
+
+-   Board Member: [Zach](https://twitter.com/zachobront)
+
+-   Board Member: [Roman](https://twitter.com/r_krasiuk)
+
+-   Board Member: [Jepsen ](https://twitter.com/0xjepsen)
+
+-   OP Labs Representative (non-voting): [Kelvin](https://twitter.com/kelvinfichter)
+
+All members will be subject to the [Code of Conduct](https://gov.optimism.io/t/code-of-conduct/5751).
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/developer-advisory-board/6892>
+",0,STANDARD,SUCCEEDED
+47864371633107534187617995773541299064963460661119440983190542488743950169122,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Grants Council Operating Budget,"# Grants Council Operating Budget
+The Grants Council plays an important role in the Collective and is assumed to persist unless a Council Dissolution Proposal is passed. 
+
+The Token House must vote on a Council Operating Budget, thereby renewing the Council for another Season and electing the proposal author as Council Lead. Delegates are effectively electing the Council Lead that has authored an approved budget. 
+
+The sole proposed Grants Council Operating Budget is proposed by Lund Ventures (Dane Lund) with a proposed operating budget of 440k OP: <https://gov.optimism.io/t/draft-season-5-grants-council-operating-budget/6941>
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/grants-council-operating-budget-template/6891>
+",0,STANDARD,SUCCEEDED
+26993004599223263087505603454119723751877285713239446072681254755783718227511,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Code of Conduct Council Budget,"# Code of Conduct Council Budget
+Season 5 will further decentralize the Foundation's role in processing violations of the Code of Conduct and remove enforcement responsibility from Token House delegates. Accordingly, the Foundation will authorize a Token House Code of Conduct Council, according to the [Council Framework](https://gov.optimism.io/t/council-framework-and-renewal/5884). The Council will be comprised of five members and a Council Lead. The Foundation proposes an initial budget of 3,000 OP per Code of Conduct Council member, for a total of 18,000 OP to be dispersed out of the Governance Fund at the end of Season 5.
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/code-of-conduct-councils/6888>
+",0,STANDARD,SUCCEEDED
+27439950952007920118525230291344523079212068327713298769307857575418374325849,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Security Council: Vote #1,"# Security Council: Vote #1
+This proposal requires a vote to approve Phase 0's addition of the Security Council as a signer on a 2/2 multisig that controls protocol upgrades for OP Mainnet. This does not require any protocol changes, but as this represents a fundamental change to OP Mainnet's security model, it should be approved by the Token House. This is one of three votes required to fully implement the Security Council as outlined here: <https://gov.optimism.io/t/intro-to-optimisms-security-council/6885>
+
+
+This vote requires a 76% approval threshold. The value displayed by the frontend may differ.
+
+This proposal is eligible for Special Voting Cycle #16a: <https://gov.optimism.io/t/security-council-vote-1-change-to-security-model/6886>
+",0,STANDARD,SUCCEEDED
+25353629475948605098820168047140307200589226219380649297323431722674892706917,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-10-12T19:08:55.000Z,2023-10-25T19:15:55.000Z,,,,Code of Conduct Violation: Carlos Melgar,"#  Code of Conduct Violation: Carlos Melgar
+All active delegates, badgeholders, Citizens, and grant recipients (""Optimists"") are bound by the [Code of Conduct](https://gov.optimism.io/t/code-of-conduct/5751). Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote.
+
+This Code of Conduct Suspension Proposal is eligible for voting in Voting Cycle #16a: <https://gov.optimism.io/t/code-of-conduct-violation-carlos-melgar/6882/9>
+",0,STANDARD,DEFEATED
+46755965320953291432113738397437466520155684451527981335363452666080752126186,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-08-03T19:50:45.000Z,2023-08-17T19:50:45.000Z,,,,Intent 2 Budget Proposal 2,"# Intent 2 Budget Proposal 2
+The Grants Council manages Intent #2: Innovate on Novel Applications. The original Council Intent Budget was approved at the start of Season 4. [https://gov.optimism.io/t/draft-season-4-council-intent-budget-proposal/5925](https://gov.optimism.io/t/draft-season-4-council-intent-budget-proposal/5925) 
+
+This proposal requests the remaining budgets approved for Intent 1, Intent 3, and Intent 4 be allocated to Intent 2 as a budget increase rather than returned to the Governance Fund for the remainder of the Season. 
+
+This proposal is eligible for voting in Voting Cycle 14 : [https://gov.optimism.io/t/final-intent-2-budget-proposal-2/6559](https://gov.optimism.io/t/final-intent-2-budget-proposal-2/6559)",0,STANDARD,SUCCEEDED
+16633367863894036056841722161407059007904922838583677995599242776177398115322,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-06-29T22:29:01.000Z,2023-07-13T22:29:01.000Z,,,,"Intent #4, 3M OP","# Intent #4, 3M OP
+In Season 4, the Token House will approval rank Mission Proposals that work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874). Missions are meant to be specific initiatives that can be completed start-to-finish by the end of Season 4. They are not meant to fund persistent teams to provide ongoing services. Below are the Mission proposals under Intent #4: Governance Accessibility.
+
+**NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST**
+
+This vote utilizes approval voting. Mission proposals will be approval ranked based on the number of yes votes. Each Mission proposal must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked proposals, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-missions-approval-ranking-example/6203). 
+
+ As a voter, you should vote yes on all Missions you think deserve grants, and you should abstain from voting on Missions you do not think deserve grants.
+## Missions
+- Proposal 4A: [Multi-lingual Lesson on Optimism Governance, by Bankless Academy](https://gov.optimism.io/t/final-multi-lingual-lesson-on-optimism-governance-by-bankless-academy/6134) - 34k OP
+- Proposal 4B: [The RetroPGF Podcast](https://gov.optimism.io/t/final-the-retropgf-podcast/6182) - 8k OP
+- Proposal 4C: [Delegate Corner Podcast](https://gov.optimism.io/t/final-delegate-corner-podcast-mission-proposal/6058) - 10k OP
+- Proposal 4D: [REGEN Score - Attestations for the Citizen’s House](https://gov.optimism.io/t/final-regen-score/6167) - 95k OP
+- Proposal 4E: [Improving Governance Accessibility through Praise and Contribution Based Attestations](https://gov.optimism.io/t/final-improving-governance-accessibility-through-praise-and-contribution-based-attestations/6150) - 112k OP
+- Proposal 4F: [Pairwise: Tinder UX For Web3 Community Signaling](https://gov.optimism.io/t/final-pairwise-tinder-ux-for-web3-community-signaling/6142) - 95k OP
+- Proposal 4G: [Economic Co-design of Gas Fees for the OP Stack](https://gov.optimism.io/t/final-economic-co-design-of-gas-fees-for-the-op-stack/6117) - 125k OP
+- Proposal 4H: [DAOStar: Governance standards for the Optimism ecosystem](https://gov.optimism.io/t/final-daostar-governance-standards-for-the-optimism-ecosystem/6181) - 67,500 OP
+- Proposal 4I: [Velodrome: Fostering Inclusive Governance through Leading Optimism Builders and Long-term Users](https://gov.optimism.io/t/final-velodrome-fostering-inclusive-governance-through-leading-optimism-builders-and-long-term-users/6186) - 1M OP
+- Proposal 4J: [Enable aOP as A Votable Token in Optimism’s Governance](https://gov.optimism.io/t/final-enable-aop-as-a-votable-token-in-optimisms-governance/6199) - 0 OP
+- Proposal 4K: [OP Governance Analytics Dashboard](https://gov.optimism.io/t/final-op-governance-analytics-dashboard/6171) - 24,500 OP
+- Proposal 4L: [OPdelegate.com](https://gov.optimism.io/t/final-opdelegate-com/6176) - 85k OP
+- Proposal 4M: [NumbaNERD Program](https://gov.optimism.io/t/final-numbanerd-program/6086) - 75k OP
+- Proposal 4N: [Facilitate and empower community members to actively engage in governance through an educational course](https://gov.optimism.io/t/draft-facilitate-and-empower-community-members-to-actively-engage-in-governance-through-an-educational-course/6154) - 30k OP",0,APPROVAL,SUCCEEDED
+76298930109016961673734608568752969826843280855214969572559472848313136347131,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-06-29T22:25:25.000Z,2023-07-13T22:25:25.000Z,,,,"Intent #3, 1M OP","# Intent #3, 1M OP
+In Season 4, the Token House will approval rank Mission Proposals that work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874). Missions are meant to be specific initiatives that can be completed start-to-finish by the end of Season 4. They are not meant to fund persistent teams to provide ongoing services. Below are the Mission proposals under Intent #3: Spreading the Optimistic Vision.
+
+**NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST**
+
+This vote utilizes approval voting. Mission proposals will be approval ranked based on the number of yes votes. Each Mission proposal must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked proposals, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-missions-approval-ranking-example/6203). 
+
+ As a voter, you should vote yes on all Missions you think deserve grants, and you should abstain from voting on Missions you do not think deserve grants.
+
+## Missions
+- Proposal 3A: [Fueling RetroPGF Growth through Education, Collaboration, and Active Marketing](https://gov.optimism.io/t/final-fueling-retropgf-growth-through-education-collaboration-and-active-marketing/6146) - 130k OP
+- Proposal 3B: [Velodrome: Spread Awareness Through Direct Outreach and Onboarding](https://gov.optimism.io/t/final-velodrome-spread-awareness-through-direct-outreach-and-onboarding/6180) - 100k OP
+- Proposal 3C: [BanklessDAO’s Global Campaign to spread the Optimistic vision](https://gov.optimism.io/t/final-banklessdao-s-global-campaign-to-spread-the-optimistic-vision/6113) - 70,395 OP
+- Proposal 3D: [Create and Maintain the 'Optimism Vision Reservoir'](https://gov.optimism.io/t/final-create-and-maintain-the-optimism-vision-reservoir/6102) - 4k OP
+- Proposal 3E: [Optimistic Womxn Shinning in Blockchain](https://gov.optimism.io/t/final-optimistic-womxn-shining-in-blockchain/6140) -  15,761 OP
+- Proposal 3F: [Let’s take the Optimistic Vision to LATAM with Espacio Cripto](https://gov.optimism.io/t/final-lets-take-the-optimistic-vision-to-latam-with-espacio-cripto/6157) - 45,600 OP
+- Proposal 3G: [Spread Optimistic values across Latam with Solow](https://gov.optimism.io/t/final-spread-optimistic-values-accross-latam-with-solow/6174) - 15,720 OP
+- Proposal 3H: [Develop the most relevant and aligned audiovisual content for the Optimism Collective](https://gov.optimism.io/t/final-develop-the-most-relevant-and-aligned-audiovisual-content-for-the-optimism-collective/6153) - 55k OP
+- Proposal 3I: [‘Thank Optimism - powered by ThriveCoin’](https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104) - 150k OP
+- Proposal 3J: [Web3xplorer - A curated web platform to discover useful web3 apps, resources and tools](https://gov.optimism.io/t/final-web3xplorer-a-curated-web-platform-to-discover-useful-web3-apps-resources-and-tools/6143) - 18k OP
+- Proposal 3K: [Rumbo Optimista - Hacia Ethereum Mexico The Event || Optimistic Road in the way to Ethereum México The Event](https://gov.optimism.io/t/final-rumbo-optimista-hacia-ethereum-mexico-the-event-optimistic-road-in-the-way-to-ethereum-mexico-the-event/6179) - 5,800 OP",0,APPROVAL,SUCCEEDED
+89065519272487155253137299698235721564519179632704918690534400514930936156393,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-06-29T22:16:47.000Z,2023-07-13T22:16:47.000Z,,,,"Intent #1, 1M OP","# Intent #1, 1M OP
+In Season 4, the Token House will approval rank Mission Proposals that work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874.). Missions are meant to be specific initiatives that can be completed start-to-finish by the end of Season 4. They are not meant to fund persistent teams to provide ongoing services. Below are the Mission proposals under Intent #1: Progress Towards Technical Decentralization.
+
+**NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST**
+
+This vote utilizes approval voting. Mission proposals will be approval ranked based on the number of yes votes. Each Mission proposal must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked proposals, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-proposals/6203)
+
+ As a voter, you should vote yes on all Missions you think deserve grants, and you should abstain from voting on Missions you do not think deserve grants.
+## Missions
+- Proposal 1A: [Superchain Governance Deepdive](https://gov.optimism.io/t/final-superchain-governance-deep-dive/5920) - 20k OP
+- Proposal 1B: [Fully Decentralized and Independent Oracle and Data Infrastructure](https://gov.optimism.io/t/final-scry-protocol-fully-decentralized-and-independent-oracle-and-data-infrastructure/6141) - 150k OP
+- Proposal 1C: [TechNERD Program](https://gov.optimism.io/t/final-technerd-program/6087) - 21k OP
+- Proposal 1D: [Extend the L1Block contract to store historical blockhash data](https://gov.optimism.io/t/final-extend-the-l1block-contract-to-store-historical-block-hash-data/6103) - 10k OP
+- Proposal 1E: [Future-proofing UI/UX of OP nodes](https://gov.optimism.io/t/final-dappnode-future-proofing-ui-ux-of-op-nodes/6189) - 50k OP
+- Proposal 1F: [Spearbit + Immunefi Bug Bounty Program for Large Protocols on Optimism](https://gov.optimism.io/t/final-spearbit-immunefi-bug-bounty-program-for-large-protocols-building-on-optimism/6187) - 100k OP",0,APPROVAL,SUCCEEDED
+33427192599934651870985988641044334656392659371327786207584390219532311772967,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-06-29T21:44:19.000Z,2023-07-13T21:44:19.000Z,,,,"Intent #1, 1M OP","#  Intent #1, 1M OP
+In Season 4, the Token House will approval rank Mission Proposals that work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874.). Missions are meant to be specific initiatives that can be completed start-to-finish by the end of Season 4. They are not meant to fund persistent teams to provide ongoing services. Below are the Mission proposals under Intent #1: Progress Towards Technical Decentralization.
+
+**NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST**
+
+This vote utilizes approval voting. Mission proposals will be approval ranked based on the number of yes votes. Each Mission proposal must receive a minimum number of yes votes, equal to 51% of quorum. Any Mission that does not receive > required number of yes votes will not qualify for a budget allocation. The top ranked proposals, above the minimum number of yes votes, will be accepted until the Intent Budget runs out. If a Mission would push the Intent Budget over the approved amount, it will not be included. Any Intent Budgets left over will be returned to the Governance Fund. For examples, see [How to Vote on Missions Guide](https://gov.optimism.io/t/how-to-vote-on-mission-proposals/6203)
+
+ As a voter, you should vote yes on all Missions you think deserve grants, and you should abstain from voting on Missions you do not think deserve grants.
+## Missions
+- Proposal 1A: [Superchain Governance Deepdive](https://gov.optimism.io/t/final-superchain-governance-deep-dive/592) - 20k OP
+- Proposal 1B: [Fully Decentralized and Independent Oracle and Data Infrastructure](https://gov.optimism.io/t/final-scry-protocol-fully-decentralized-and-independent-oracle-and-data-infrastructure/6141) - 150k OP
+- Proposal 1C: [TechNERD Program](https://gov.optimism.io/t/final-technerd-program/6087) - 21k OP
+- Proposal 1D: [Extend the L1Block contract to store historical blockhash data](https://gov.optimism.io/t/final-extend-the-l1block-contract-to-store-historical-block-hash-data/6103) - 10k OP
+- Proposal 1E: [Future-proofing UI/UX of OP nodes](https://gov.optimism.io/t/final-dappnode-future-proofing-ui-ux-of-op-nodes/6189) - 50k OP
+- Proposal 1F: [Spearbit + Immunefi Bug Bounty Program for Large Protocols on Optimism](https://gov.optimism.io/t/final-spearbit-immunefi-bug-bounty-program-for-large-protocols-building-on-optimism/6187) - 100k OP
+",0,APPROVAL,DEFEATED
+2803748188551238423262549847018364268422519232004056376953100549201854740200,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-06-29T21:20:51.000Z,2023-07-13T21:20:51.000Z,,,,"Intent #1, 1M OP","# Intent #1, 1M OP
+In Season 4, the Token House will approval rank Mission Proposals that work towards our [Collective Intents](https://gov.optimism.io/t/collective-intents/5874.). Missions are meant to be specific initiatives that can be completed start-to-finish by the end of Season 4. They are not meant to fund persistent teams to provide ongoing services. Below are the Mission proposals under Intent #1: Progress Towards Technical Decentralization.
+
+**NOTE: YOU WILL NOT BE ABLE TO CHANGE YOUR VOTE ONCE CAST**
+
+## Missions
+- Proposal 1A: [Superchain Governance Deepdive](https://gov.optimism.io/t/final-superchain-governance-deep-dive/592) - 20k OP
+- Proposal 1B: [Fully Decentralized and Independent Oracle and Data Infrastructure](https://gov.optimism.io/t/final-scry-protocol-fully-decentralized-and-independent-oracle-and-data-infrastructure/6141) - 150k OP
+- Proposal 1C: [TechNERD Program](https://gov.optimism.io/t/final-technerd-program/6087) - 21k OP
+- Proposal 1D: [Extend the L1Block contract to store historical blockhash data](https://gov.optimism.io/t/final-extend-the-l1block-contract-to-store-historical-block-hash-data/6103) - 10k OP
+- Proposal 1E: [Future-proofing UI/UX of OP nodes](https://gov.optimism.io/t/final-dappnode-future-proofing-ui-ux-of-op-nodes/6189) - 50k OP
+- Proposal 1F: [Spearbit + Immunefi Bug Bounty Program for Large Protocols on Optimism](https://gov.optimism.io/t/final-spearbit-immunefi-bug-bounty-program-for-large-protocols-building-on-optimism/6187) - 100k OP
+
+",0,APPROVAL,DEFEATED
+103713749716503028671815481721039004389156473487450783632177114353117435138377,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-05-05T02:05:16.000Z,2023-05-05T11:02:08.000Z,,,,Council Reviewer Elections: Growth Experiments Grants,"# Council Reviewer Elections: Growth Experiments Grants
+Following the approval of the Grants Council, the Token House will elect 5 Reviewers to the Growth Experiments Grants sub-committee.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+This Season 4 proposal is eligible for voting in Special Voting Cycle #12b.
+
+Candidates:
+- [Katie Garcia](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/2)
+- [Sugma.eth](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/3)
+- [Matt L](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/4)
+- [GFX](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/5)
+- [StableLab](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/7)
+- [Michael Vander Meiden](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/8)
+- [DAOStewards](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/9)",0,APPROVAL,SUCCEEDED
+2808108363564117434228597137832979672586627356483314020876637262618986508713,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-05-05T02:05:16.000Z,2023-05-05T11:02:08.000Z,,,,Council Reviewer Elections: Builders Grants,"# Council Reviewer Elections: Builders Grants
+Following the approval of the Grants Council Intent Budget, the Token House will elect 3 Reviewers to the Builders sub-committee.
+
+This vote will utilize approval voting. Voting is set up such that you can place a vote for any number of nominees. In the case of approval/ranked choice votes, delegates may vote for themselves, so long as they also cast votes for the remaining elected positions.
+
+This Season 4 proposal is eligible for voting in Special Voting Cycle #12b.
+
+Candidates:
+- [Gonna.eth](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/6)
+- [Jack Anorak](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/10)
+- [Krzysztof Urbanski (kaereste or krst)](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/11)
+- [Oxytocin](https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/12)",0,APPROVAL,SUCCEEDED
+29831001453379581627736734765818959389842109811221412662144194715522205098015,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-05-04T23:25:32.000Z,2023-05-05T08:22:24.000Z,,,,Treasury Appropriation (Foundation Year 2 Budget Approval),"# Treasury Appropriation (Foundation Year 2 Budget Approval)
+The Optimism Foundation future OP operating budget is subject to governance approval. The Foundation was allocated a Year 1 budget in the founding documents of the Optimism Collective. It has to date used 5.21% of this Year 1 budget. ****Therefore, the Foundation does not need to request a budget for Year 2, but is symbolically requesting an additional 1 OP for its Year 2 (2023-2024) operating budget.
+
+This Season 4 proposal is eligible for voting in Special Voting Cycle #12b: [https://gov.optimism.io/t/treasury-appropriation-proposal-foundation-year-2-budget-draft/5979](https://gov.optimism.io/t/treasury-appropriation-proposal-foundation-year-2-budget-draft/5979)",0,STANDARD,SUCCEEDED
+80982553847843251343725022866904947381762263529096361834044805234222094077710,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-05-04T23:25:32.000Z,2023-05-05T08:22:24.000Z,,,,Inflation Adjustment Proposal,"# Inflation Adjustment Proposal
+Inflation of the OP token is set to 2% per year by default. This inflation parameter can be adjusted by governance. This proposal would reduce inflation in Year 2 to 0%.
+
+This Season 4 proposal is eligible for voting in Special Voting Cycle #12b: [https://gov.optimism.io/t/draft-inflation-adjustment-proposal-to-0/5936](https://gov.optimism.io/t/draft-inflation-adjustment-proposal-to-0/5936).",0,STANDARD,SUCCEEDED
+64930538748268257621925093712454552173772860987977453334165023026835711650357,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-04-07T11:38:39.500Z,2023-04-07T20:35:31.500Z,,,,Protocol Delegation Program Renewal,"# Protocol Delegation Program Renewal \n In Season 3, the Protocol Delegation Program was piloted as a way to enable protocols, some of our most important stakeholders, to participate in governance. The Protocol Delegation Program temporarily delegates up to 5M OP from the Governance Fund to value-aligned protocols based on pre-defined criteria. This program was designed to last two Seasons in total, and this proposal would continue the program for duration of the final Season (Season 4.) After Season 4, particpating protocols will need to reaffirm their commitment to Optimism governance via their own treasuries. This Season 4 proposal is eligible for voting in Special Voting Cycle #12a: [https://gov.optimism.io/t/protocol-delegation-program-renewal/5883](https://gov.optimism.io/t/protocol-delegation-program-renewal/5883)",0,STANDARD,SUCCEEDED
+51738314696473345172141808043782330430064117614433447104828853768775712054864,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-04-07T11:38:39.500Z,2023-04-07T20:35:31.500Z,,,,Intent #1 Budget Proposal,# Intent #1 Budget Proposal \n Season 4 lays the groundwork to align the entire community around Collective Intents. Intents are directional goals that allow the Collective to align and focus. Intent #1 is: Progress Towards Technical Decentralization. The Foundation has set this Intent and proposed a budget of 1M OP to support Proposed Missions in Season 4. Any budget that is not allocated to Missions under this Intent will be returned to the Governance Fund. This Season 4 proposal is eligible for voting in Special Voting Cycle #12a: [https://gov.optimism.io/t/collective-intents/5874#intent-1-progress-towards-technical-decentralization-2](https://gov.optimism.io/t/collective-intents/5874#intent-1-progress-towards-technical-decentralization-2),0,STANDARD,SUCCEEDED
+32970701904870446614408373011942917680422376755229075190214017021915019093516,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-04-07T11:38:39.500Z,2023-04-07T20:35:31.500Z,,,,Intent #2 - Council Intent Budget Proposal,"# Intent #2 - Council Intent Budget Proposal \n In Season 3, we experimented with a Grants Council. If renewed, the Grants Council would manage Intent #2: Innovate on Novel Applications.  If this Council Intent Budget is approved, it will renew the Council for another Season and elect the proposal author, Dane Lund, as Council Lead. Reviewer Elections will take place in Special Voting Cycle #12b, if this budget is approved. Any budget that is not allocated to Missions under this Intent will be returned to the Governance Fund. This Season 4 proposal is eligible for voting in Special Voting Cycle #12a: - [https://gov.optimism.io/t/draft-season-4-council-intent-budget-proposal/5925](https://gov.optimism.io/t/draft-season-4-council-intent-budget-proposal/5925) - [https://gov.optimism.io/t/council-framework-and-renewal/5884](https://gov.optimism.io/t/council-framework-and-renewal/5884)",0,STANDARD,SUCCEEDED
+94365805422398770067924881378455503928423439630602149628781926844759467250082,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-04-07T11:38:39.500Z,2023-04-07T20:35:31.500Z,,,,Intent #3 Budget Proposal,# Intent #3 Budget Proposal \n Season 4 lays the groundwork to align the entire community around Collective Intents. Intents are directional goals that allow the Collective to align and focus. Intent #3 is: Spread Awareness of the Optimistic Vision. The Foundation has selected this Intent from commnunity suggestions and proposed a budget of 1M OP to support Proposed Missions in Season 4. Any budget that is not allocated to Missions under this Intent will be returned to the Governance Fund. This Season 4 proposal is eligible for voting in Special Voting Cycle #12a: [https://gov.optimism.io/t/collective-intents/5874#intent-3-spread-awareness-of-the-optimistic-vision-4](https://gov.optimism.io/t/collective-intents/5874#intent-3-spread-awareness-of-the-optimistic-vision-4),0,STANDARD,SUCCEEDED
+103695324913424597802389181312722993037601032681914451632412140667432224173014,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-04-07T11:38:39.500Z,2023-04-07T20:35:31.500Z,,,,Intent #4 Budget Proposal,# Intent #4 Budget Proposal \n Season 4 lays the groundwork to align the entire community around Collective Intents. Intents are directional goals that allow the Collective to align and focus. Intent #4 is: Governance Accessibility. The Foundation has set this Intent and proposed a budget of 3M OP to support Proposed Missions in Season 4. Any budget that is not allocated to Missions under this Intent will be returned to the Governance Fund. This Season 4 proposal is eligible for voting in Special Voting Cycle #12a: [https://gov.optimism.io/t/collective-intents/5874#intent-4-governance-accessibility-6](https://gov.optimism.io/t/collective-intents/5874#intent-4-governance-accessibility-6),0,STANDARD,SUCCEEDED
+114732572201709734114347859370226754519763657304898989580338326275038680037913,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-01-30T10:06:46.000Z,2023-01-30T19:03:38.000Z,,,,"Upgrade Proposal: Bedrock - This proposal outlines the Optimism Collective’s first Protocol upgrade of Optimism Mainnet to the Bedrock release. This upgrade aims to provide unprecedented modularity, simplicity, and Ethereum equivalence to the L2 network, with positive impacts on performance and security. Bedrock is the codebase which will help Optimism stand the test of time, and is also preparatory step towards the multi-chain future. - This Protocol Upgrade proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548","Upgrade Proposal: Bedrock - This proposal outlines the Optimism Collective’s first Protocol upgrade of Optimism Mainnet to the Bedrock release. This upgrade aims to provide unprecedented modularity, simplicity, and Ethereum equivalence to the L2 network, with positive impacts on performance and security. Bedrock is the codebase which will help Optimism stand the test of time, and is also preparatory step towards the multi-chain future. - This Protocol Upgrade proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548",0,STANDARD,SUCCEEDED
+27878184270712708211495755831534918916136653803154031118511283847257927730426,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-01-30T09:52:19.000Z,2023-01-30T18:49:11.000Z,,,,"Delegate Suspension: Fractal Visions - All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. - This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710 // Note: the approval threshold for this proposal is 51%, or 20424975 OP. The value displayed by the frontend may differ.","Delegate Suspension: Fractal Visions - All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. - This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710 // Note: the approval threshold for this proposal is 51%, or 20424975 OP. The value displayed by the frontend may differ.",0,STANDARD,SUCCEEDED
+90839767999322802375479087567202389126141447078032129455920633707568400402209,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2023-01-30T07:49:26.500Z,2023-01-30T17:41:06.000Z,,,,All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710,All Optimism Delegates are bound by the delegate code of conduct (https://gov.optimism.io/t/delegate-code-of-conduct/3943.) Severe code of conduct violations are subject to a three month suspension and are decided via Token House vote. This Delegate Suspension Proposal is eligible for voting in Voting Cycle #11: https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710,0,STANDARD,FAILED
+103606400798595803012644966342403441743733355496979747669804254618774477345292,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2022-12-01T23:40:53.000Z,2022-12-02T09:32:32.500Z,,,,Test Vote 3: All Together Now -- Come try out the new vote.optimism.io!,Test Vote 3: All Together Now -- Come try out the new vote.optimism.io!,0,STANDARD,SUCCEEDED
+89934444025525534467725222948723300602129924689317116631018191521555230364343,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2022-12-01T11:02:40.000Z,2022-12-01T18:21:01.000Z,,,,Test vote 2: Electric Boogaloo,"Test vote 2: Electric Boogaloo \n\n JK, let's use this one :)",0,STANDARD,FAILED
+28601282374834906210319879956567232553560898502158891728063939287236508034960,0xe4553b743e74da3424ac51f8c1e586fd43ae226f,2022-12-01T01:29:34.500Z,2022-12-01T08:47:55.500Z,,,,Test vote -- please use this to try out on-chain voting!,Test vote -- please use this to try out on-chain voting!,0,STANDARD,FAILED
